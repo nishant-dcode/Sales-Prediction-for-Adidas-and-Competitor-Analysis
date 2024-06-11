@@ -1,0 +1,1007 @@
+Brand,Model,Type,State,City,Gender,Size,Color,Material,Price (USD),Units Sold,Total Sales
+Nike,Air Jordan 1,Basketball,New York,New York,Men,10,Red/Black,Leather,170,1200,600000
+Adidas,Ultra Boost 21,Running,New York,New York,Men,9.5,Black,Primeknit,180,1000,500000
+Reebok,Classic Leather,Casual,New York,New York,Men,11,White,Leather,75,1000,400000
+Converse,Chuck Taylor,Casual,New York,New York,Women,8,Navy,Canvas,55,850,382500
+Puma,Future Rider,Lifestyle,New York,New York,Women,7.5,Pink,Mesh,80,900,540000
+Vans,Old Skool,Skate,New York,New York,Men,8.5,Black/White,Suede/Canvas,65,1000,500000
+New Balance,990v5,Running,New York,New York,Women,6.5,Grey,Suede/Mesh,175,1250,625000
+Asics,Gel-Kayano 28,Running,New York,New York,Men,10.5,Blue,Mesh,160,900,450000
+Fila,Disruptor II,Fashion,New York,New York,Women,9,White,Leather/Synthetic,65,950,380000
+Skechers,Go Run Razor 3,Running,New York,New York,Men,9,Black,Mesh,110,825,371250
+Nike,Air Max 270,Running,New York,New York,Women,7,Pink,Mesh,150,900,540000
+Adidas,Stan Smith,Casual,New York,New York,Men,9,White/Green,Leather,80,1000,500000
+Reebok,Club C 85,Casual,New York,New York,Women,8.5,Pink,Leather,70,1220,610000
+Converse,One Star,Skate,New York,New York,Men,10,Black,Suede,75,925,462500
+Puma,RS-Fast,Lifestyle,New York,New York,Men,9.5,Yellow,Leather/Synthetic,110,950,380000
+Vans,Authentic,Skate,New York,New York,Women,6,White,Canvas,50,800,360000
+New Balance,Fresh Foam 1080v11,Running,New York,New York,Men,11.5,Blue,Mesh,150,850,510000
+Asics,Gel-Nimbus 23,Running,New York,New York,Women,8,Purple,Mesh,150,950,475000
+Fila,Ray Tracer,Fashion,New York,New York,Men,10,Black,Synthetic,70,1200,600000
+Skechers,Arch Fit,Walking,New York,New York,Women,7.5,Grey,Mesh,70,900,450000
+Nike,Air Force 1,Casual,New York,New York,Men,10,White,Leather,90,900,360000
+Adidas,NMD_R1,Running,New York,New York,Women,8.5,Black/Pink,Primeknit,140,825,371250
+Reebok,Zig Kinetica II,Running,New York,New York,Men,11,White,Mesh,120,825,495000
+Converse,Jack Purcell,Casual,New York,New York,Women,7.5,Navy,Canvas,65,950,475000
+Puma,Calibrate Runner,Running,New York,New York,Men,9.5,Black,Mesh,80,1220,732000
+Vans,Sk8-Hi,Skate,New York,New York,Women,8,Black/White,Suede/Canvas,70,925,508750
+New Balance,327,Lifestyle,New York,New York,Men,10,Blue/Orange,Suede/Mesh,90,900,450000
+Asics,Gel-Quantum 180,Running,New York,New York,Women,9,Grey,Mesh/Synthetic,120,850,425000
+Fila,Mindblower,Fashion,New York,New York,Men,8.5,White,Leather/Synthetic,75,875,525000
+Skechers,D'Lites,Walking,New York,New York,Women,7,Black,Synthetic,65,1000,650000
+Nike,Air Max 2090,Running,New York,New York,Men,9,Grey,Mesh,150,1250,750000
+Adidas,Adizero Adios 5,Running,New York,New York,Women,7.5,Blue,Mesh,170,1000,550000
+Reebok,Nano 9,Cross-training,New York,New York,Men,10,Black,Mesh/Synthetic,130,925,462500
+Converse,Chuck 70,Casual,New York,New York,Women,9,Pink,Canvas,85,900,450000
+Puma,Future Rider Play,Lifestyle,New York,New York,Men,9,Black/Red,Synthetic,90,900,540000
+Vans,Slip-On,Skate,New York,New York,Women,7,Checkered,Canvas,50,1050,682500
+New Balance,574,Casual,New York,New York,Men,9,Black/Grey,Suede/Textile,80,1275,765000
+Asics,Gel-Kayano 27,Running,New York,New York,Women,8.5,Purple,Mesh/Synthetic,160,1025,563750
+Fila,Venom,Fashion,New York,New York,Men,9.5,White/Red,Leather/Synthetic,65,950,475000
+Skechers,Go Walk 5,Walking,New York,New York,Women,7.5,Black,Mesh,60,900,450000
+Nike,Air Force 1,Casual,New York,New York,Men,11,White,Leather,90,925,555000
+Adidas,NMD_R1,Running,New York,New York,Women,9,Black,Knit,140,1100,715000
+Reebok,Zig Kinetica II,Running,New York,New York,Men,9.5,White,Mesh,120,1250,750000
+Converse,Jack Purcell,Casual,New York,New York,Men,10,White,Canvas,65,1025,563750
+Puma,Suede Classic,Casual,New York,New York,Women,8.5,Beige,Suede,65,950,475000
+Vans,Sk8-Hi,Skate,New York,New York,Men,8,Black/White,Suede/Canvas,70,925,462500
+New Balance,327,Casual,New York,New York,Women,7.5,Orange,Suede/Mesh,100,900,540000
+Asics,Gel-Kayano 28,Running,New York,New York,Women,7,White,Mesh,160,1075,698750
+Fila,Original Fitness,Casual,New York,New York,Men,11,White/Navy,Leather,70,1200,720000
+Skechers,Go Walk 5,Walking,New York,New York,Women,8,Black,Mesh,60,1000,550000
+Nike,Free RN 5.0,Running,New York,New York,Men,10,Grey,Mesh,100,925,462500
+Adidas,Adilette Cloudfoam,Slides,New York,New York,Women,6,Black,Synthetic,35,900,450000
+Reebok,Nano 9,Crossfit,New York,New York,Men,10.5,Black,Mesh,130,900,540000
+Converse,Chuck 70,Casual,New York,New York,Women,7.5,Pink,Canvas,85,1000,650000
+Puma,Clyde All Pro,Basketball,New York,New York,Men,9.5,Black/Red,Leather,130,875,568750
+Vans,Era,Skate,New York,New York,Women,6.5,White,Canvas,55,1000,700000
+New Balance,Fresh Foam More v2,Running,New York,New York,Men,12,Black/Grey,Mesh,165,1150,747500
+Asics,GT-2000 10,Running,New York,New York,Women,7,Blue,Mesh,120,975,536250
+Fila,Mindblower,Casual,New York,New York,Men,9.5,White/Blue,Leather/Synthetic,75,920,506000
+Skechers,Dynamight 2.0,Training,New York,New York,Women,9,Black,Mesh,50,900,495000
+Nike,Air Force 1,Basketball,New York,New York,Men,11,White,Leather,90,875,568750
+Adidas,NMD_R1,Lifestyle,New York,New York,Women,7,Pink,Primeknit,130,975,682500
+Reebok,Nano X1,Training,New York,New York,Men,9,Black,Knit,130,1200,780000
+Converse,Chuck 70,Casual,New York,New York,Women,8.5,Yellow,Canvas,85,1000,550000
+Puma,Clyde All-Pro,Basketball,New York,New York,Men,10,Red,Leather,130,950,522500
+Vans,Sk8-Hi,Skate,New York,New York,Women,7,Black,Suede,70,900,495000
+New Balance,Fresh Foam 1080v11,Running,New York,New York,Women,8,Green,Mesh,150,900,585000
+Asics,Gel-Quantum 360,Running,New York,New York,Men,11,Blue,Mesh,170,1000,700000
+Fila,D-Formation,Casual,New York,New York,Women,8.5,White,Leather,65,900,225000
+Skechers,Max Cushioning,Running,New York,New York,Men,8.5,Black,Mesh,90,900,315000
+Nike,Air Max 90,Lifestyle,New York,New York,Women,6,Grey,Leather,120,700,245000
+Adidas,Yeezy Boost 350,Lifestyle,New York,New York,Men,10,Black,Primeknit,220,700,245000
+Reebok,Classic Nylon,Casual,Texas,Houston,Women,7.5,Pink,Nylon,65,550,220000
+Converse,Jack Purcell,Casual,Texas,Houston,Men,9,White,Canvas,65,700,245000
+Puma,Calibrate Runner,Running,Texas,Houston,Women,9,Grey,Mesh,120,850,212500
+Vans,Era,Skate,Texas,Houston,Men,9.5,Red,Canvas,50,850,297500
+New Balance,FuelCell Echo,Running,Texas,Houston,Women,7,Pink,Mesh,100,675,236250
+Asics,GT-2000 9,Running,Texas,Houston,Men,10.5,Black,Mesh,120,625,218750
+Fila,Original Fitness,Casual,Texas,Houston,Women,7,White,Leather,60,500,200000
+Skechers,Elite Flex,Walking,Texas,Houston,Men,10,Navy,Mesh,65,700,245000
+Nike,Blazer Low,Lifestyle,Texas,Houston,Women,7.5,White,Leather,85,875,262500
+Nike,Air Force 1,Basketball,Texas,Houston,Men,10,White,Leather,90,875,350000
+Adidas,NMD_R1,Lifestyle,Texas,Houston,Men,8.5,Black,Primeknit,140,700,245000
+Reebok,Nano X1,Training,Texas,Houston,Women,7.5,Grey,Flexweave,130,600,240000
+Converse,Jack Purcell,Casual,Texas,Houston,Men,9,White,Canvas,65,500,225000
+Puma,Clyde All-Pro,Basketball,Texas,Houston,Men,11,Red/White,Leather,120,650,260000
+Vans,SK8-Hi,Skate,Texas,Houston,Women,6,Black,Suede/Canvas,70,900,270000
+New Balance,574,Casual,Texas,Houston,Men,10,Navy,Suede/Mesh,80,900,360000
+Asics,Gel-Lyte III NS,Casual,Texas,Houston,Women,8,Pink,Mesh,100,725,253750
+Fila,Mindblower,Fashion,Texas,Houston,Men,9.5,White,Leather/Synthetic,75,625,250000
+Skechers,Max Cushioning,Running,Texas,Houston,Women,7,Black,Mesh,75,525,236250
+Nike,React Infinity Run Flyknit 2,Running,Texas,Houston,Men,9.5,Blue,Flyknit,160,800,320000
+Adidas,Harden Stepback,Basketball,Texas,Houston,Men,12,Grey,Synthetic,80,925,277500
+Reebok,Classic Nylon,Casual,Texas,Houston,Women,7.5,Black,Nylon,65,925,370000
+Converse,Chuck 70,Casual,Texas,Houston,Men,8,Yellow,Canvas,85,775,271250
+Puma,Calibrate Runner,Running,Texas,Houston,Men,10.5,Black/Yellow,Mesh,80,700,280000
+Vans,Era,Skate,Texas,Houston,Women,7,Green,Canvas,55,600,270000
+New Balance,FuelCell Propel V3,Running,Texas,Houston,Women,6.5,Purple,Mesh,100,950,380000
+Asics,Gel-Kayano 28 Lite-Show,Running,Texas,Houston,Men,11,Black,Mesh,170,950,380000
+Fila,Trailblazer,Fashion,Texas,Houston,Women,8,White/Pink,Leather,65,950,427500
+Skechers,Summits - Quick Getaway,Walking,Texas,Houston,Men,9,Grey,Mesh,60,800,320000
+Nike,Air Zoom Tempo NEXT% FlyEase,Running,Texas,Houston,Women,8.5,White,Mesh,200,750,300000
+Nike,React Infinity Run 2,Running,Texas,Houston,Women,7.5,Grey,Mesh,160,650,292500
+Adidas,Superstar,Casual,Texas,Houston,Men,8.5,Black/White,Leather,80,1000,500000
+Reebok,Zig Kinetica Horizon,Running,Texas,Houston,Women,6.5,Blue,Mesh,120,950,380000
+Converse,Chuck 70,Casual,Texas,Houston,Men,9,White,Canvas,85,950,427500
+Puma,Cali Sport,Lifestyle,Texas,Houston,Women,9.5,White,Leather,90,1100,440000
+Vans,Sk8-Hi,Skate,Texas,Houston,Men,10,Black/White,Suede/Canvas,70,700,280000
+New Balance,990v5,Running,Texas,Houston,Men,9.5,Grey,Suede/Mesh,175,700,315000
+Asics,Gel-Venture 8,Trail,Texas,Houston,Women,8.5,Blue,Mesh,70,975,487500
+Fila,Mindblower,Fashion,Texas,Houston,Men,11,White,Synthetic,75,925,370000
+Skechers,Go Run Mojo,Running,Texas,Houston,Women,7,Black,Mesh,60,925,416250
+Nike,Air Zoom Pegasus 38,Running,Texas,Houston,Men,11,Black,Mesh,120,1100,440000
+Adidas,Ultraboost 5.0 DNA,Running,Texas,Houston,Women,8.5,Grey,Primeknit,180,650,260000
+Reebok,Classic Leather Legacy,Casual,Texas,Houston,Men,9.5,White,Leather,80,650,292500
+Converse,Jack Purcell,Casual,Texas,Houston,Women,6,Navy,Canvas,65,900,450000
+Puma,RS-Fast Tech,Lifestyle,Texas,Houston,Men,9.5,Black/Red,Synthetic,110,850,382500
+Vans,Era,Skate,Texas,Houston,Women,7.5,Black/White,Canvas,50,850,382500
+New Balance,Fresh Foam Roav,Running,Texas,Houston,Men,10,Red,Mesh,80,900,450000
+Asics,GT-2000 10,Running,Texas,Houston,Women,9,Black,Mesh,120,625,312500
+Fila,Original Fitness,Fashion,Texas,Houston,Men,10,White,Leather,60,625,281250
+Skechers,Max Cushioning Elite,Walking,Texas,Houston,Women,8,Navy,Mesh,80,850,467500
+Nike,Air Force 1 '07,Basketball,Texas,Houston,Men,11,White,Leather,90,800,360000
+Adidas,NMD_R1,Running,Texas,Houston,Women,8,Pink,Primeknit,140,800,360000
+Reebok,Nano 9,Training,Texas,Houston,Men,9.5,Black/White,Mesh,130,750,375000
+Converse,Jack Purcell,Casual,Texas,Houston,Women,7.5,White,Canvas,65,600,300000
+Puma,Calibrate Runner,Running,Texas,Houston,Men,10,Black/Grey,Mesh/Synthetic,90,575,258750
+Vans,Sk8-Hi,Skate,Texas,Houston,Women,9,Black/White,Canvas,65,750,412500
+New Balance,FuelCell Rebel v2,Running,Texas,Houston,Men,9.5,Blue/White,Mesh,130,900,405000
+Asics,Gel-Kinsei OG,Running,Texas,Houston,Women,7.5,White/Grey,Mesh/Leather,180,900,405000
+Fila,Spaghetti,Fashion,Texas,Houston,Men,8,White/Navy,Leather/Synthetic,65,825,412500
+Skechers,Go Walk 5,Walking,Texas,Houston,Women,6.5,Black,Mesh,60,675,337500
+Nike,ZoomX Invincible Run,Running,Texas,Houston,Men,11,Black,Mesh/Synthetic,180,650,292500
+Adidas,Ultraboost DNA,Running,Texas,Houston,Women,8,Grey,Primeknit,180,850,467500
+Reebok,Classic Nylon,Casual,Texas,Houston,Men,10.5,Black,Nylon,60,950,427500
+Converse,Run Star Hike,Casual,Texas,Houston,Women,8,Cream,Canvas,110,950,427500
+Puma,Suede Classic+,Casual,Texas,Houston,Men,8,Red/White,Suede,65,850,425000
+Vans,Era,Skate,Texas,Houston,Women,7.5,Green,Canvas,50,700,350000
+New Balance,Fresh Foam More v3,Running,Texas,Houston,Men,11,Black/Grey,Mesh/Synthetic,165,650,292500
+Asics,Gel-Quantum 90 3,Running,Texas,Houston,Women,9,Pink,Mesh/Synthetic,90,900,495000
+Fila,Original Fitness,Casual,Texas,Houston,Men,9.5,White/Navy/Red,Leather,60,775,310000
+Skechers,Go Run Mojo Pep,Running,Texas,Houston,Women,8.5,Black/White,Mesh,55,775,387500
+Nike,Air Force 1,Casual,Texas,Houston,Men,11,White,Leather,90,775,387500
+Adidas,NMD_R1,Running,Texas,Houston,Women,8.5,Pink,Primeknit,130,625,312500
+Reebok,Zig Kinetica II,Running,California,San Francisco,Men,9,Blue,Mesh,120,575,316250
+Converse,Chuck 70,Casual,California,San Francisco,Women,7,Black,Canvas,85,775,387500
+Puma,Clyde All-Pro,Basketball,California,San Francisco,Men,10,White,Leather,130,825,330000
+Vans,Sk8-Hi,Skate,California,San Francisco,Women,9,Black/White,Suede/Canvas,65,725,362500
+New Balance,574 Classic,Casual,California,San Francisco,Men,10.5,Grey,Suede/Mesh,80,725,362500
+Asics,Gel-Quantum 90 3,Running,California,San Francisco,Women,7.5,Black,Mesh,70,575,287500
+Fila,Mindblower,Fashion,California,San Francisco,Men,11,Grey,Leather/Synthetic,75,500,275000
+Skechers,Max Cushioning Premier,Running,California,San Francisco,Women,7.5,Pink,Mesh,90,700,350000
+Nike,Blazer Mid '77,Casual,California,San Francisco,Men,9.5,White,Leather,100,850,425000
+Adidas,Superstar,Casual,California,San Francisco,Women,7.5,Black/White,Leather,85,700,420000
+Reebok,DMX Thrill,Running,California,San Francisco,Men,10,Black,Mesh,70,700,420000
+Converse,Jack Purcell,Casual,California,San Francisco,Women,8.5,White,Canvas,65,600,360000
+Puma,Calibrate Runner,Running,California,San Francisco,Men,9.5,Black/Yellow,Mesh,140,500,325000
+Vans,Slip-On,Skate,California,San Francisco,Women,6.5,Checkered,Canvas,50,700,420000
+New Balance,Fresh Foam Beacon V3,Running,California,San Francisco,Men,11,Blue,Mesh,120,875,525000
+Asics,Gel-Venture 8,Trail,California,San Francisco,Women,9.5,Grey,Mesh,70,675,438750
+Fila,F-13,Fashion,California,San Francisco,Men,10,White,Leather,70,725,471250
+Skechers,Equalizer 4.0,Training,California,San Francisco,Women,8.5,Black,Mesh,65,625,375000
+Nike,KD13,Basketball,California,San Francisco,Men,11,Blue,Mesh,150,525,341250
+Nike,React Infinity Run Flyknit 2,Running,California,San Francisco,Women,9.5,Black/White,Flyknit,160,700,560000
+Adidas,NMD_R1,Lifestyle,California,San Francisco,Men,11.5,Grey,Primeknit,140,900,540000
+Reebok,Aztrek 96,Casual,California,San Francisco,Women,8.5,Yellow/Black,Leather/Synthetic,90,750,487500
+Converse,Jack Purcell,Casual,California,San Francisco,Men,9,Navy/White,Canvas,70,750,487500
+Puma,Calibrate Runner,Running,California,San Francisco,Men,10,Black,Mesh,100,650,390000
+Vans,Sk8-Hi,Skate,California,San Francisco,Women,7.5,Black/White,Suede/Canvas,65,550,357500
+New Balance,327,Casual,California,San Francisco,Men,10,Green,Suede/Leather,90,725,580000
+Asics,GT-2000 10,Running,California,San Francisco,Women,8,Blue,Mesh,120,975,585000
+Fila,Trailblazer,Fashion,California,San Francisco,Men,9,White/Grey,Leather,85,825,536250
+Skechers,Max Cushioning Premier,Running,California,San Francisco,Women,7,Grey/Pink,Mesh,105,825,536250
+Nike,Blazer Mid '77,Casual,California,San Francisco,Men,8.5,Green,Leather,100,700,420000
+Adidas,Ultraboost 6.0,Running,California,San Francisco,Women,7.5,Black/White,Primeknit,180,575,373750
+Reebok,Classic Nylon,Casual,California,San Francisco,Men,11.5,Blue/White,Nylon,60,875,700000
+Converse,Pro Leather,Casual,California,San Francisco,Women,9.5,White/Green,Leather,75,1025,615000
+Puma,Clyde All-Pro,Basketball,California,San Francisco,Men,9.5,Black,Leather/Synthetic,130,875,568750
+Vans,Era 95 DX,Skate,California,San Francisco,Women,6.5,Black/White,Canvas,65,825,536250
+New Balance,Fresh Foam More v3,Running,California,San Francisco,Men,10,Black/Grey,Mesh,165,725,435000
+Asics,Gel-Quantum 360 6,Running,California,San Francisco,Women,9,Grey/Green,Mesh,180,775,503750
+Fila,Spaghetti,Basketball,California,San Francisco,Men,10.5,White,Leather,75,775,620000
+Skechers,Uno Bold Move,Casual,California,San Francisco,Women,8.5,Black/White,Synthetic,70,975,633750
+Nike,Air Force 1,Basketball,California,San Francisco,Men,10,White,Leather,100,925,647500
+Adidas,NMD_R1,Lifestyle,California,San Francisco,Women,8,Grey,Primeknit,140,800,520000
+Reebok,Nano X1,Training,California,San Francisco,Men,9.5,Black,Knit,130,750,487500
+Converse,Jack Purcell,Casual,California,San Francisco,Women,6.5,Navy,Canvas,65,750,562500
+Puma,Calibrate Runner,Running,California,San Francisco,Men,11,Black,Mesh,80,725,580000
+Vans,Sk8-Hi,Skate,California,San Francisco,Women,7.5,Black/White,Canvas/Suede,70,925,508750
+New Balance,327,Lifestyle,California,San Francisco,Men,10,Beige,Suede/Mesh,100,925,555000
+Asics,Gel-Excite 8,Running,California,San Francisco,Women,9,Pink,Mesh,75,775,426250
+Fila,Memory Fresh 2,Walking,California,San Francisco,Men,10,White,Synthetic,60,725,398750
+Skechers,Energy Burst,Running,California,San Francisco,Women,8,Black,Mesh,70,725,471250
+Nike,Flyknit Trainer,Running,California,San Francisco,Men,10,Black/White,Flyknit,150,775,542500
+Adidas,Ultraboost 4.0,Running,California,San Francisco,Women,7,Blue,Primeknit,180,875,481250
+Reebok,Floatride Energy,Running,California,San Francisco,Men,10.5,Grey,Mesh,100,875,525000
+Converse,Chuck 70 High,Casual,California,San Francisco,Women,9,Pink,Canvas,85,700,385000
+Puma,Clyde All-Pro,Basketball,California,San Francisco,Men,9,White,Leather,130,675,371250
+Vans,Era,Skate,California,San Francisco,Women,8.5,Black,Canvas,50,650,422500
+New Balance,Fresh Foam Beacon v3,Running,California,San Francisco,Men,12,Blue,Mesh,120,700,490000
+Asics,Gel-Kayano 27,Running,California,San Francisco,Women,8.5,Black,Mesh,160,875,481250
+Fila,Trailblazer,Fashion,California,San Francisco,Men,11,Black,Leather,75,875,525000
+Skechers,Equalizer 4.0,Walking,California,San Francisco,Women,7,Grey,Mesh,60,725,398750
+Nike,Blazer Mid '77,Casual,California,San Francisco,Men,9.5,White/Red/Navy,Leather,100,700,385000
+Adidas,Superstar,Casual,California,San Francisco,Women,7.5,White/Black,Leather,80,650,422500
+Reebok,Zig Kinetica,Running,California,San Francisco,Men,11.5,White/Black,Mesh,120,775,542500
+Converse,Jack Purcell,Casual,California,San Francisco,Men,8.5,White/Navy,Canvas,70,975,536250
+Puma,Suede Classic,Casual,California,San Francisco,Women,8.5,Pink,Suede,65,975,585000
+Vans,Sk8-Hi,Skate,California,San Francisco,Men,10,Black/White,Canvas,70,775,426250
+New Balance,Fresh Foam More,Running,California,San Francisco,Women,9,Grey/Purple,Mesh,165,775,426250
+Asics,Gel-Kayano 27,Running,California,San Francisco,Men,10.5,Black/Green,Mesh,160,700,455000
+Fila,Trailblazer,Fashion,California,San Francisco,Women,7,Cream,Synthetic,75,800,560000
+Skechers,D'Lites Fresh Start,Walking,California,San Francisco,Men,9.5,White/Black,Leather,70,700,245000
+Nike,Air Force 1,Casual,California,San Francisco,Women,8.5,White/Red,Leather,90,700,315000
+Adidas,NMD_R1,Casual,California,San Francisco,Men,9,Black/White,Primeknit,130,700,315000
+Reebok,Club C 85 MU,Casual,California,San Francisco,Men,11,White/Black,Leather,75,550,247500
+Converse,Chuck 70,Casual,California,Los Angeles,Women,8.5,Cream,Canvas,85,500,250000
+Puma,Calibrate Runner,Running,California,Los Angeles,Men,8.5,Black/Blue,Mesh,120,700,315000
+Vans,Era,Skate,California,Los Angeles,Women,7,Pink/White,Canvas,50,750,262500
+New Balance,FuelCell Propel v2,Running,California,Los Angeles,Men,9,Blue/Green,Mesh,100,650,292500
+Asics,Gel-Cumulus 23,Running,California,Los Angeles,Women,8.5,Pink/White,Mesh,120,675,303750
+Fila,Mindblower,Fashion,California,Los Angeles,Men,10,White/Black,Synthetic,75,525,236250
+Nike,Air Force 1,Casual,California,Los Angeles,Men,11,White,Leather,90,450,225000
+Adidas,NMD_R1,Lifestyle,California,Los Angeles,Women,8,Pink,Primeknit,140,650,292500
+Reebok,Nano X1,Training,California,Los Angeles,Men,9.5,Grey,Knit,130,800,280000
+Converse,All Star Hi,Casual,California,Los Angeles,Women,7,Black,Canvas,60,650,292500
+Puma,Calibrate Runner,Running,California,Los Angeles,Men,10.5,Blue,Mesh,90,650,292500
+Vans,Sk8-Hi,Skate,California,Los Angeles,Women,6,Red/White,Canvas,70,550,247500
+New Balance,327,Lifestyle,California,Los Angeles,Men,8.5,Green,Suede/Mesh,100,425,212500
+Asics,Gel-Quantum 180,Running,California,Los Angeles,Women,7.5,Grey,Mesh,120,625,281250
+Fila,Mindblower,Fashion,California,Los Angeles,Men,9,White,Leather,70,800,360000
+Skechers,Max Cushioning,Walking,California,Los Angeles,Women,9,Black,Mesh,75,600,300000
+Nike,React Infinity Run Flyknit,Running,California,Los Angeles,Men,12,Black,Flyknit,160,625,312500
+Adidas,Adilette Comfort,Slides,California,Los Angeles,Women,6,Black,Synthetic,35,525,236250
+Reebok,Classic Nylon,Casual,California,Los Angeles,Men,10,Grey,Nylon,65,425,212500
+Converse,Chuck 70,Casual,California,Los Angeles,Women,8,Cream,Canvas,85,600,390000
+Puma,RS-X3 Puzzle,Lifestyle,California,Los Angeles,Men,8.5,Black/Yellow,Synthetic,110,800,360000
+Vans,Era,Skate,California,Los Angeles,Women,7,Pink,Canvas,55,650,325000
+New Balance,990v4,Running,California,Los Angeles,Men,9.5,Grey,Suede/Mesh,175,650,325000
+Asics,GT-2000 10,Running,California,Los Angeles,Women,9,Blue,Mesh,120,550,247500
+Fila,D-Formation,Fashion,California,Los Angeles,Men,11,White,Leather,65,450,225000
+Skechers,Equalizer 4.0,Training,California,Los Angeles,Women,8.5,Black,Knit,70,625,406250
+Nike,Air Zoom Pegasus 38,Running,California,Los Angeles,Men,10.5,Blue,Mesh,120,900,405000
+Nike,Air Force 1 '07,Basketball,California,Los Angeles,Men,11,White,Leather,90,750,375000
+Adidas,Yeezy Boost 350 V2,Fashion,California,Los Angeles,Men,9,Zebra,Primeknit,220,750,375000
+Reebok,Nano X1 Adventure,Training,California,Los Angeles,Men,10,Khaki,Textile/Leather,130,625,281250
+Converse,Jack Purcell Low,Casual,California,Los Angeles,Women,7.5,Pink,Canvas,65,500,250000
+Puma,Clyde All-Pro,Basketball,California,Los Angeles,Men,10.5,Black/White,Leather/Suede,130,800,520000
+Vans,Sk8-Hi,Skate,California,Los Angeles,Women,9,Checkerboard,Canvas,70,950,427500
+New Balance,Fresh Foam Hierro v6,Trail,California,Los Angeles,Men,9.5,Grey/Yellow,Synthetic/Mesh,135,800,400000
+Asics,Gel-Quantum 180 5,Running,California,Los Angeles,Women,8,Pink,Mesh,120,750,375000
+Fila,D-Formation,Fashion,California,Los Angeles,Men,11,Black,Leather,65,650,292500
+Skechers,Arch Fit Refine,Walking,California,Los Angeles,Women,6.5,Navy,Mesh,65,700,350000
+Nike,Air Zoom Pegasus 38,Running,California,Los Angeles,Men,12,Blue,Mesh,120,700,455000
+Adidas,NMD_R1,Casual,California,Los Angeles,Women,8.5,Pink,Primeknit,130,900,450000
+Reebok,Floatride Energy 3,Running,California,Los Angeles,Men,9,Black,Mesh,100,850,467500
+Converse,Chuck 70 High,Casual,California,Los Angeles,Men,12,Green,Canvas,85,725,362500
+Puma,Calibrate Runner,Running,California,Los Angeles,Women,9,White,Mesh,90,675,337500
+Vans,Era,Skate,California,Los Angeles,Men,8.5,Black,Canvas,50,675,405000
+New Balance,FuelCell Rebel v2,Running,California,Los Angeles,Women,7.5,Orange,Mesh,130,650,422500
+Asics,Gel-Cumulus 23,Running,California,Los Angeles,Men,11,Grey,Mesh,120,850,425000
+Fila,Mindblower,Fashion,California,Los Angeles,Women,7,White,Leather/Synthetic,65,850,467500
+Skechers,GOrun Mojo 2.0,Running,California,Los Angeles,Men,8,Black,Mesh,60,700,350000
+Nike,Air Force 1,Basketball,California,Los Angeles,Men,11,White,Leather,90,650,325000
+Adidas,NMD_R1,Running,California,Los Angeles,Women,8.5,Pink,Knit,140,650,390000
+Reebok,ZigWild Trail 7,Trail,California,Los Angeles,Men,9.5,Black,Mesh/Synthetic,110,700,455000
+Converse,Jack Purcell,Casual,California,Los Angeles,Women,7,Blue,Canvas,65,800,400000
+Puma,Calibrate Runner,Running,California,Los Angeles,Men,10,Grey,Mesh,90,800,440000
+Vans,SK8-Hi,Skate,California,Los Angeles,Women,6.5,Black/White,Canvas/Leather,70,650,325000
+New Balance,FuelCell Rebel v2,Running,California,Los Angeles,Women,7,White/Pink,Mesh,110,625,312500
+Asics,Gel-Kahana 8,Running,California,Los Angeles,Men,8,Grey,Mesh,85,600,360000
+Fila,Mindblower,Fashion,California,Los Angeles,Women,7.5,White/Pink,Leather/Synthetic,65,650,422500
+Skechers,Max Cushioning,Running,California,Los Angeles,Men,11,Black,Mesh,85,825,412500
+Nike,Air Max 2090,Running,California,Los Angeles,Men,12,Black,Mesh/Synthetic,150,825,453750
+Adidas,Superstar,Casual,California,Los Angeles,Women,9.5,White/Black,Leather,85,675,337500
+Reebok,Nano 9,Training,California,Los Angeles,Men,10,Blue,Synthetic,130,650,325000
+Converse,Pro Leather,Casual,California,Los Angeles,Men,9.5,White/Green,Leather,80,600,360000
+Puma,RS-X?,Lifestyle,California,Los Angeles,Women,8.5,Pink,Mesh,110,700,455000
+Vans,Slip-On,Casual,California,Los Angeles,Men,10.5,Black/White,Canvas,50,900,450000
+New Balance,Fresh Foam More v3,Running,California,Los Angeles,Men,12,Black/Grey,Mesh,165,900,495000
+Asics,GT-1000 9,Running,California,Los Angeles,Women,6.5,Blue,Mesh,90,700,350000
+Fila,T1 Mid,Casual,California,Los Angeles,Men,11,White,Leather,65,700,350000
+Skechers,Go Walk 5,Walking,California,Los Angeles,Women,8.5,Black,Mesh,60,625,375000
+Nike,Blazer Mid '77,Casual,California,Los Angeles,Men,8.5,Green,Leather,100,725,471250
+Nike,Air Force 1,Casual,California,Los Angeles,Men,9.5,White,Leather,90,475,213750
+Adidas,NMD_R1,Lifestyle,California,Los Angeles,Women,7,Black/Pink,Knit,140,275,123750
+Reebok,Nano X1,Crossfit,California,Los Angeles,Men,10,Black,Mesh,130,275,96250
+Converse,Chuck 70,Casual,California,Los Angeles,Women,8.5,Ivory,Canvas,85,125,50000
+Puma,Calibrate,Running,Illinois,Chicago,Men,8.5,Grey,Mesh,130,175,96250
+Vans,SK8-Hi,Skate,Illinois,Chicago,Men,9.5,Black/White,Canvas,70,275,123750
+New Balance,574,Casual,Illinois,Chicago,Women,7,Pink,Suede,80,525,236250
+Asics,Gel-Quantum 180 6,Running,Illinois,Chicago,Men,11,Black,Mesh,120,175,78750
+Fila,Mindblower,Fashion,Illinois,Chicago,Women,8,White,Leather/Synthetic,65,225,78750
+Skechers,Max Cushioning,Running,Illinois,Chicago,Women,7.5,Black,Mesh,90,100,40000
+Nike,Free RN Flyknit,Running,Illinois,Chicago,Men,10,Blue,Knit,130,175,96250
+Adidas,Adizero Boston 9,Running,Illinois,Chicago,Women,6.5,Black,Mesh,120,275,123750
+Reebok,Zig Kinetica II,Running,Illinois,Chicago,Men,9,Blue,Mesh,120,495,247500
+Converse,Run Star Hike,Casual,Illinois,Chicago,Women,8.5,White,Canvas,110,200,100000
+Puma,Ralph Sampson,Casual,Illinois,Chicago,Men,11,White/Green,Leather,80,225,90000
+Vans,Era,Skate,Illinois,Chicago,Women,7,Black,Canvas,55,75,33750
+New Balance,990v4,Running,Illinois,Chicago,Men,10.5,Grey,Suede/Mesh,175,125,75000
+Asics,Gel-Kayano 27,Running,Illinois,Chicago,Women,9,Black,Mesh,160,225,112500
+Fila,D-Formation,Fashion,Illinois,Chicago,Men,9,White,Leather,70,450,225000
+Skechers,D'Lites,Walking,Illinois,Chicago,Women,8,White,Leather,65,150,75000
+Nike,Air Max 2090,Running,Illinois,Chicago,Men,9,Grey,Synthetic,150,150,60000
+Nike,Air Force 1 Low,Casual,Illinois,Chicago,Men,9.5,White,Leather,90,75,33750
+Adidas,NMD_R1,Lifestyle,Illinois,Chicago,Women,7.5,Pink/White,Primeknit,130,100,60000
+Reebok,Zig Kinetica II,Running,Illinois,Chicago,Men,11,Black,Mesh,120,225,112500
+Converse,Chuck 70 High,Casual,Illinois,Chicago,Men,8.5,Cream,Canvas,85,495,297000
+Puma,Calibrate Runner,Running,Illinois,Chicago,Women,8,Black,Mesh,90,200,110000
+Vans,Sk8-Hi,Skate,Illinois,Chicago,Men,10,Black/White,Suede/Canvas,70,175,87500
+New Balance,327,Lifestyle,Illinois,Chicago,Women,6.5,White/Green,Suede/Mesh,90,100,50000
+Asics,Gel-Quantum 90,Running,Illinois,Chicago,Men,10,Blue,Mesh,90,125,75000
+Fila,Original Fitness,Fashion,Illinois,Chicago,Women,7.5,White/Navy,Leather/Synthetic,65,250,162500
+Skechers,Go Walk 5,Walking,Illinois,Chicago,Men,9,Grey,Mesh,65,500,250000
+Nike,React Infinity Run Flyknit,Running,Illinois,Chicago,Women,8,Black,Flyknit,160,250,112500
+Adidas,Superstar,Casual,Illinois,Chicago,Men,8.5,White/Black,Leather,85,200,80000
+Reebok,Nano 9,Crossfit,Illinois,Chicago,Women,7,Grey,Mesh,130,175,70000
+Converse,Run Star Hike,Casual,Illinois,Chicago,Women,9,White,Canvas,100,175,87500
+Puma,RS-2K,Lifestyle,Illinois,Chicago,Men,10,White,Leather/Synthetic,120,350,192500
+Vans,Era,Skate,Illinois,Chicago,Women,6.5,Black/White,Canvas,50,575,287500
+New Balance,FuelCell Propel v3,Running,Illinois,Chicago,Men,9.5,Blue/Orange,Mesh,100,325,146250
+Asics,Gel-Kinsei OG,Running,Illinois,Chicago,Women,8.5,White/Black,Mesh,180,250,100000
+Fila,Trigate,Fashion,Illinois,Chicago,Men,9.5,White/Navy/Red,Synthetic,60,200,80000
+Skechers,Summits,Walking,Illinois,Chicago,Women,7.5,Black/Pink,Mesh,60,225,112500
+Nike,Air Force 1 Low,Casual,Illinois,Chicago,Men,9,White,Leather,90,400,220000
+Adidas,NMD_R1,Lifestyle,Illinois,Chicago,Women,7,Pink,Primeknit,140,550,275000
+Reebok,Zig Kinetica,Running,Illinois,Chicago,Men,11,Black,Mesh,120,325,146250
+Converse,Chuck 70,Casual,Illinois,Chicago,Men,8,Grey,Canvas,85,250,100000
+Puma,Clyde All-Pro,Basketball,Illinois,Chicago,Men,10.5,White,Leather,130,225,90000
+Vans,SK8-Hi,Skate,Illinois,Chicago,Women,7,Black/White,Suede/Canvas,70,200,100000
+New Balance,990v2,Running,Illinois,Chicago,Men,10,Grey,Suede/Mesh,175,375,206250
+Asics,Gel-Quantum 360 6,Running,Illinois,Chicago,Women,8,Black,Mesh,150,500,250000
+Fila,Original Fitness,Casual,Illinois,Chicago,Men,9,White/Navy,Leather,60,300,135000
+Skechers,Max Cushioning Premier,Running,Illinois,Chicago,Men,8.5,Grey,Mesh,90,200,80000
+Nike,Blazer Mid,Casual,Illinois,Chicago,Women,7.5,Red,Leather,100,175,70000
+Adidas,Superstar,Casual,Illinois,Chicago,Men,10,White/Black,Leather,80,175,87500
+Reebok,Classic Nylon,Casual,Illinois,Chicago,Women,8,Black/White,Nylon/Suede,65,250,137500
+Converse,All Star Pro BB,Basketball,Illinois,Chicago,Men,11,Black,Canvas,120,425,255000
+Puma,Calibrate Runner,Running,Illinois,Chicago,Women,6.5,Blue,Mesh,120,250,125000
+Vans,Era,Skate,Illinois,Chicago,Men,9.5,Red,Canvas,50,150,75000
+New Balance,Fresh Foam More v3,Running,Illinois,Chicago,Women,7.5,Grey,Mesh,165,125,62500
+Asics,GT-2000 10,Running,Illinois,Chicago,Men,9.5,Black,Mesh,120,125,75000
+Fila,D-Formation,Casual,Illinois,Chicago,Women,8.5,White,Leather,70,250,162500
+Skechers,Equalizer 4.0,Walking,Illinois,Chicago,Men,12,Navy,Mesh,65,400,240000
+Nike,React Infinity Run Flyknit 2,Running,Illinois,Chicago,Women,9,Purple,Flyknit,160,250,125000
+Nike,Air Force 1,Basketball,Illinois,Chicago,Men,11,White,Leather,90,195,97500
+Adidas,Yeezy Boost 350 V2,Fashion,Illinois,Chicago,Women,8.5,Cream,Primeknit,220,175,87500
+Reebok,Zig Kinetica,Running,Illinois,Chicago,Men,12,Black,Mesh,120,150,90000
+Converse,Chuck 70,Casual,Illinois,Chicago,Women,7,Egret,Canvas,85,250,162500
+Puma,Calibrate Runner,Running,Illinois,Chicago,Men,8.5,Black,Mesh,80,500,300000
+Vans,Sk8-Hi,Skate,Illinois,Chicago,Women,9,Black/White,Canvas,70,300,150000
+New Balance,FuelCell Rebel v2,Running,Illinois,Chicago,Men,10.5,Blue,Mesh,130,250,125000
+Asics,Gel-Quantum 90,Running,Illinois,Chicago,Women,7,Black,Mesh,80,200,100000
+Fila,Tracer,Fashion,Illinois,Chicago,Men,9.5,White/Navy,Leather/Synthetic,65,200,120000
+Skechers,D'Lites,Walking,Illinois,Chicago,Women,6.5,Black/White,Synthetic,65,300,195000
+Nike,React Infinity Run Flyknit 2,Running,Illinois,Chicago,Men,9,Black,Flyknit,160,725,145000
+Adidas,NMD_R1 V2,Casual,Illinois,Chicago,Women,6.5,Pink,Primeknit,130,725,217500
+Reebok,Club C Legacy,Casual,Illinois,Chicago,Men,11,Green,Leather,80,525,157500
+Converse,Jack Purcell,Casual,Illinois,Chicago,Women,7.5,White,Canvas,65,525,183750
+Puma,Clyde All-Pro,Basketball,Texas,Dallas,Men,10,Black,Leather,130,375,150000
+Vans,Slip-On,Casual,Texas,Dallas,Women,8.5,Black,Canvas,50,525,183750
+New Balance,Fresh Foam Hierro v6,Trail Running,Texas,Dallas,Men,10,Grey/Orange,Synthetic/Mesh,135,675,168750
+Asics,GT-2000 10,Running,Texas,Dallas,Women,9,Black/Pink,Mesh,120,650,227500
+Fila,Ray,Fashion,Texas,Dallas,Men,11,White,Synthetic,65,475,166250
+Skechers,Ultra Flex 2.0,Walking,Texas,Dallas,Women,7.5,Navy/White,Mesh,60,425,148750
+Nike,React Infinity Run,Running,Texas,Dallas,Women,9.5,Grey/Pink,Mesh,160,300,120000
+Adidas,Ultraboost 5.0 DNA,Running,Texas,Dallas,Men,9,White,Primeknit,180,500,175000
+Reebok,Nano X1,Training,Texas,Dallas,Women,8.5,Black,Flexweave/Knit,130,675,202500
+Converse,Jack Purcell,Casual,Texas,Dallas,Men,11,White,Canvas,75,675,270000
+Puma,Calibrate Runner,Running,Texas,Dallas,Men,10,Grey/Black,Mesh,90,500,150000
+Vans,Sk8-Hi,Skate,Texas,Dallas,Women,7,Black/White,Canvas/Suede,65,400,140000
+New Balance,327,Lifestyle,Texas,Dallas,Men,8.5,Blue/Orange,Suede/Nylon,90,300,120000
+Asics,Gel-Cumulus 23,Running,Texas,Dallas,Women,7.5,Pink,Mesh,120,450,157500
+Fila,Trailblazer,Fashion,Texas,Dallas,Men,9,Green/Orange,Leather/Synthetic,80,700,140000
+Skechers,Go Walk Joy,Walking,Texas,Dallas,Women,6.5,Black,Mesh,54.99,700,210000
+Nike,Blazer Mid '77,Casual,Texas,Dallas,Men,10,White/Black,Leather,100,525,131250
+Adidas,NMD_R1,Lifestyle,Texas,Dallas,Women,6,Pink/White,Primeknit,130,425,127500
+Reebok,Legacy Lifter,Weightlifting,Texas,Dallas,Men,9.5,Black/Gold,Leather,200,325,113750
+Converse,Run Star Hike,Casual,Texas,Dallas,Women,7.5,Pink,Canvas,110,600,180000
+Puma,Wild Rider,Lifestyle,Texas,Dallas,Men,11,Black/White,Suede/Leather,90,750,150000
+Vans,Slip-On,Casual,Texas,Dallas,Women,8,Black/White Checkerboard,Canvas,50,775,232500
+New Balance,Fresh Foam 1080v10,Running,Texas,Dallas,Men,12,Black/Green,Mesh,150,625,156250
+Asics,Gel-Quantum 360 6,Running,Texas,Dallas,Women,9,Black/White,Mesh,150,550,192500
+Fila,Spaghetti,Fashion,Texas,Dallas,Men,9.5,White/Navy,Leather/Synthetic,75,450,225000
+Nike,Air Max 90,Running,Texas,Dallas,Men,8.5,White,Leather,120,800,360000
+Adidas,NMD_R1,Lifestyle,Texas,Dallas,Women,7,Black/Pink,Primeknit,130,800,360000
+Reebok,Nano X,Crossfit,Texas,Dallas,Men,9,Grey,Mesh,130,800,400000
+Converse,All Star Pro BB,Basketball,Texas,Dallas,Women,9.5,Purple,Canvas,110,650,292500
+Puma,Suede Classic,Casual,Texas,Dallas,Men,11,Black,Suede,65,600,270000
+Vans,Sk8-Hi,Skate,Texas,Dallas,Women,7.5,Yellow,Suede,65,500,250000
+New Balance,574,Casual,Texas,Dallas,Men,10,Grey,Suede/Mesh,80,875,481250
+Asics,Gel-Quantum 360 6,Running,Texas,Dallas,Women,8.5,Black,Mesh,150,825,371250
+Fila,Original Fitness,Fashion,Texas,Dallas,Men,10.5,White,Leather,65,825,412500
+Skechers,Go Run 600,Running,Texas,Dallas,Women,6,Pink,Mesh,60,975,438750
+Nike,Air Force 1,Casual,Texas,Dallas,Men,9.5,Grey,Leather,90,575,258750
+Adidas,Yeezy Boost 350,Lifestyle,Texas,Dallas,Women,6.5,Cream,Primeknit,220,575,287500
+Reebok,Legacy Lifter,Weightlifting,Texas,Dallas,Men,10.5,Black,Leather,200,850,510000
+Converse,Pro Leather,Casual,Texas,Dallas,Women,8.5,White/Green,Leather,85,800,400000
+Puma,RS-X? Puzzle,Lifestyle,Texas,Dallas,Men,8.5,Red,Synthetic,110,800,440000
+Vans,Slip-On,Skate,Texas,Dallas,Women,8,Black/White,Canvas,50,975,487500
+New Balance,FuelCell Propel v3,Running,Texas,Dallas,Men,9,Red,Mesh,100,525,262500
+Asics,Gel-Kayano 28,Running,Texas,Dallas,Women,7.5,White/Pink,Mesh,160,525,288750
+Fila,Disruptor Low,Fashion,Texas,Dallas,Men,9.5,White/Navy,Synthetic,60,775,465000
+Skechers,Elite Flex,Walking,Texas,Dallas,Women,7.5,Black,Mesh,70,725,398750
+Nike,Air Force 1 '07,Basketball,Texas,Dallas,Men,9.5,White,Leather,100,675,371250
+Adidas,NMD_R1,Running,Texas,Dallas,Women,7,Grey,Primeknit,140,725,435000
+Reebok,Aztrek Double Mix,Casual,Texas,Dallas,Women,8,Pink/White,Suede/Mesh,100,450,270000
+Converse,All Star Leather,Casual,Texas,Dallas,Men,8.5,Black,Leather,65,450,247500
+Puma,Calibrate Runner,Running,Texas,Dallas,Men,10,Blue,Mesh,90,675,337500
+Vans,SK8-Hi,Skate,Texas,Dallas,Women,6.5,Black/White,Suede/Canvas,70,625,250000
+New Balance,Fresh Foam 880v11,Running,Texas,Dallas,Men,11.5,Red,Mesh,130,625,250000
+Asics,Gel-Cumulus 23,Running,Texas,Dallas,Women,9.5,Purple,Mesh,120,575,258750
+Fila,Mindblower,Fashion,Texas,Dallas,Men,9.5,White/Blue,Leather/Synthetic,75,425,191250
+Skechers,Summits - Quick Lapse,Walking,Texas,Dallas,Women,8,Black/Pink,Mesh,60,400,160000
+Nike,Air Max 97,Running,Texas,Dallas,Men,11.5,Black,Leather/Synthetic,170,575,287500
+Adidas,ZX 2K Boost,Casual,Texas,Dallas,Women,7.5,White/Pink,Mesh/Synthetic,150,725,290000
+Reebok,Club C Revenge,Casual,Texas,Dallas,Men,10,White/Green,Leather,80,725,290000
+Converse,Chuck 70 High,Casual,Texas,Dallas,Women,6,Red,Canvas,85,650,422500
+Puma,Cali Sport,Lifestyle,Texas,Dallas,Men,8.5,Black/White,Leather,80,500,325000
+Vans,Slip-On,Skate,Texas,Dallas,Women,7,Black/White,Canvas,50,475,285000
+New Balance,Fresh Foam More v2,Running,Texas,Dallas,Men,9,Grey,Mesh,165,675,472500
+Asics,GT-2000 10,Running,Texas,Dallas,Women,8,Blue,Mesh,120,825,495000
+Fila,Original Fitness,Fashion,Texas,Dallas,Men,11,White,Leather,60,825,495000
+Nike,Air Force 1,Basketball,Texas,Dallas,Men,11,White,Leather,90,725,471250
+Adidas,NMD_R1,Running,Texas,Dallas,Women,8,Pink,Primeknit,140,575,373750
+Reebok,Zig Kinetica,Running,Texas,Dallas,Men,10.5,Black,Mesh,120,525,315000
+Converse,Jack Purcell,Casual,Texas,Dallas,Women,7.5,White,Canvas,65,775,542500
+Puma,Clyde All-Pro,Basketball,Texas,Dallas,Men,10.5,Black,Leather,130,425,191250
+Vans,Sk8-Hi,Skate,Texas,Dallas,Women,9,Black/White,Canvas/Suede,70,225,101250
+New Balance,Fresh Foam More v3,Running,Texas,Dallas,Men,9.5,Blue,Mesh,165,225,78750
+Asics,Gel-Kayano Lite,Running,Texas,Dallas,Women,7.5,Black,Mesh,120,75,30000
+Fila,Mindblower,Fashion,Pennsylvania,Philadelphia,Men,9,Grey,Synthetic,70,125,68750
+Skechers,D'Lites,Lifestyle,Pennsylvania,Philadelphia,Women,8.5,White,Leather/Synthetic,65,225,101250
+Nike,Air Max 95,Running,Pennsylvania,Philadelphia,Men,11,Grey,Synthetic,170,475,213750
+Adidas,Superstar,Casual,Pennsylvania,Philadelphia,Women,7,White/Black,Leather,80,125,56250
+Reebok,DMX Series 2K,Casual,Pennsylvania,Philadelphia,Men,9.5,White/Blue,Synthetic,90,175,61250
+Converse,All Star Lift,Casual,Pennsylvania,Philadelphia,Women,6.5,Black,Canvas,65,50,20000
+Puma,Ralph Sampson,Basketball,Pennsylvania,Philadelphia,Men,11,White,Leather,80,125,68750
+Vans,Era,Skate,Pennsylvania,Philadelphia,Women,8.5,Red,Canvas,55,225,101250
+New Balance,FuelCell Rebel v2,Running,Pennsylvania,Philadelphia,Men,10,Black,Mesh,130,445,222500
+Asics,Gel-Quantum 90,Running,Pennsylvania,Philadelphia,Women,8,Black/Pink,Mesh,80,150,75000
+Fila,Original Fitness,Casual,Pennsylvania,Philadelphia,Men,8.5,White/Red,Leather,65,175,70000
+Skechers,Elite Flex Wasick,Training,Pennsylvania,Philadelphia,Women,7.5,Grey,Knit,65,25,11250
+Nike,React Infinity Run Flyknit,Running,Pennsylvania,Philadelphia,Men,10,Blue,Flyknit,160,75,45000
+Nike,Air Force 1 '07,Casual,Pennsylvania,Philadelphia,Men,9,White/Black,Leather,90,175,87500
+Adidas,Yeezy Boost 350 V2,Fashion,Pennsylvania,Philadelphia,Women,8.5,Cream White,Primeknit/Synthetic,220,450,225000
+Reebok,Nano X1 Adventure,Training,Pennsylvania,Philadelphia,Men,10.5,Black,Mesh/Synthetic,130,150,75000
+Converse,Jack Purcell,Casual,Pennsylvania,Philadelphia,Women,7,White,Canvas,65,150,60000
+Puma,Calibrate Runner,Running,Pennsylvania,Philadelphia,Men,11,Grey,Mesh/Synthetic,100,75,33750
+Vans,SK8-Hi,Skate,Pennsylvania,Philadelphia,Women,9.5,Purple,Canvas/Suede,70,75,45000
+New Balance,FuelCell Rebel v2,Running,Pennsylvania,Philadelphia,Men,9.5,Black/White,Mesh/Synthetic,130,200,100000
+Asics,Gel-Quantum 360 6,Running,Pennsylvania,Philadelphia,Women,6,Pink,Mesh/Synthetic,170,470,282000
+Fila,Mindblower,Fashion,Pennsylvania,Philadelphia,Men,8.5,Red/White,Synthetic/Leather,75,175,105000
+Skechers,Max Cushioning Elite,Running,Pennsylvania,Philadelphia,Women,7,Navy,Mesh/Synthetic,110,150,82500
+Nike,Air Max 90,Running,Pennsylvania,Philadelphia,Men,8,Black/White,Leather/Mesh,120,100,55000
+Adidas,NMD_R1,Fashion,Pennsylvania,Philadelphia,Women,7,Grey,Knit/Synthetic,140,125,81250
+Reebok,Nano X1 Grit,Training,Pennsylvania,Philadelphia,Men,11,Grey/Black,Mesh/Synthetic,130,250,175000
+Converse,All Star,Casual,Pennsylvania,Philadelphia,Men,9,Navy,Canvas,55,500,325000
+Puma,Future Rider Play On,Lifestyle,Pennsylvania,Philadelphia,Women,9,Yellow,Synthetic/Textile,80,250,150000
+Vans,Era,Skate,Pennsylvania,Philadelphia,Men,9.5,Black/White,Canvas,50,175,96250
+New Balance,Fresh Foam X Beacon v3,Running,Pennsylvania,Philadelphia,Women,7,White/Grey,Mesh,120,150,82500
+Asics,Gel-Kayano 27,Running,Pennsylvania,Philadelphia,Men,12,Black,Mesh/Synthetic,160,150,97500
+Fila,Trigate,Fashion,Pennsylvania,Philadelphia,Women,8,Pink,Synthetic/Leather,65,300,210000
+Nike,Air Force 1,Casual,Pennsylvania,Philadelphia,Men,11,White,Leather,90,500,325000
+Adidas,Yeezy Boost 350 V2,Fashion,Pennsylvania,Philadelphia,Women,7,Cream,Primeknit,220,300,180000
+Reebok,Nano X1,CrossFit,Pennsylvania,Philadelphia,Men,10,Black/White,Mesh,130,225,123750
+Converse,All Star,Casual,Pennsylvania,Philadelphia,Women,8.5,Red,Canvas,60,175,96250
+Puma,Calibrate Rest,Running,Pennsylvania,Philadelphia,Men,8.5,Grey,Mesh,100,200,130000
+Vans,Sk8-Hi,Skate,Pennsylvania,Philadelphia,Men,9,Black/White,Suede/Canvas,70,375,262500
+New Balance,327,Casual,Pennsylvania,Philadelphia,Women,7,Green/White,Suede/Nylon,90,525,341250
+Asics,Gel-Cumulus 23,Running,Pennsylvania,Philadelphia,Men,9,Black,Mesh,120,300,180000
+Fila,Mindblower,Fashion,Pennsylvania,Philadelphia,Women,7.5,Pink,Leather,75,225,123750
+Skechers,Max Cushioning,Walking,Pennsylvania,Philadelphia,Men,11,Grey,Mesh,90,200,110000
+Nike,React Infinity Run Flyknit 2,Running,Pennsylvania,Philadelphia,Women,8,Blue,Flyknit,160,175,113750
+Adidas,Ultraboost 20,Running,Pennsylvania,Philadelphia,Men,9.5,White,Primeknit,180,350,245000
+Reebok,Aztrek 96,Casual,Pennsylvania,Philadelphia,Women,9,Purple,Synthetic,90,475,308750
+Converse,Jack Purcell,Casual,Pennsylvania,Philadelphia,Men,8.5,White,Canvas,70,275,137500
+Puma,RS-X3,Fashion,Pennsylvania,Philadelphia,Women,7.5,Pink,Leather/Synthetic,110,200,90000
+Vans,Slip-On,Skate,Pennsylvania,Philadelphia,Men,9.5,Checkerboard Black/White,Canvas,50,175,78750
+New Balance,FuelCell Rebel v2,Running,Pennsylvania,Philadelphia,Women,8.5,Grey/Green,Mesh,130,125,68750
+Asics,Gel-Quantum 360 6,Running,Pennsylvania,Philadelphia,Men,10,Black,Mesh,160,225,135000
+Fila,D-Formation,Fashion,Pennsylvania,Philadelphia,Women,6,White/Black,Leather/Synthetic,70,400,240000
+Skechers,Go Walk 5,Walking,Pennsylvania,Philadelphia,Men,10,Black,Mesh,65,225,112500
+Nike,Air Max 2090,Running,Pennsylvania,Philadelphia,Women,7.5,Green,Mesh,150,125,62500
+Nike,React Infinity Run,Running,Pennsylvania,Philadelphia,Men,9.5,Blue/Black,Mesh,160,100,50000
+Adidas,NMD_R1,Lifestyle,Pennsylvania,Philadelphia,Women,7.5,Grey,Primeknit,130,100,60000
+Reebok,Nano 9,Training,Pennsylvania,Philadelphia,Men,10,Black,Flexweave,130,225,146250
+Converse,All Star Pro BB,Basketball,Pennsylvania,Philadelphia,Women,8.5,White,Leather,100,375,262500
+Puma,Clyde Hardwood,Basketball,Pennsylvania,Philadelphia,Men,8,Red/Black,Leather,110,200,120000
+Vans,Sk8-Hi,Skate,Pennsylvania,Philadelphia,Women,7.5,Black/White,Suede/Canvas,70,195,117000
+New Balance,327,Casual,Pennsylvania,Philadelphia,Men,9.5,Green,Suede/Mesh,90,175,105000
+Asics,Gel-Quantum 360 6,Running,Pennsylvania,Philadelphia,Women,8,Pink,Mesh/Synthetic,160,150,105000
+Fila,Mindblower,Fashion,Pennsylvania,Philadelphia,Men,10,White/Red,Leather,75,250,187500
+Skechers,D'Lites,Walking,Pennsylvania,Philadelphia,Women,7.5,Black,Leather/Synthetic,60,475,332500
+Nike,Blazer Mid '77,Casual,Pennsylvania,Philadelphia,Men,10,White/Black,Leather,100,275,165000
+Adidas,Superstar,Casual,Pennsylvania,Philadelphia,Women,8.5,White/Black,Leather,80,225,135000
+Reebok,Classic Nylon,Casual,Pennsylvania,Philadelphia,Men,11,Black,Nylon/Suede,60,175,105000
+Converse,Chuck 70,Casual,Pennsylvania,Philadelphia,Women,7.5,Egret,Canvas,85,175,122500
+Puma,Ralph Sampson Mid,Basketball,Pennsylvania,Philadelphia,Men,9.5,White,Leather,90,275,206250
+Vans,Era,Skate,Pennsylvania,Philadelphia,Men,8.5,Red,Canvas,55,450,157500
+New Balance,FuelCell Rebel v2,Running,Pennsylvania,Philadelphia,Women,7,Purple,Mesh,130,450,202500
+Asics,GT-2000 10,Running,Pennsylvania,Philadelphia,Men,9.5,Grey,Mesh,120,450,202500
+Fila,Trailblazer,Hiking,Pennsylvania,Philadelphia,Women,8,Beige,Leather/Synthetic,85,300,135000
+Skechers,Summits,Training,Nevada,Las Vegas,Men,11,Black,Mesh,60,250,125000
+Nike,Air Force 1,Basketball,Nevada,Las Vegas,Men,11,White,Leather,90,475,213750
+Adidas,Yeezy Boost 350 V2,Lifestyle,Nevada,Las Vegas,Men,10,Cream,Primeknit,220,525,183750
+Reebok,Zig Kinetica,Running,Nevada,Las Vegas,Women,9,Pink,Mesh,120,425,191250
+Converse,Chuck 70,Casual,Nevada,Las Vegas,Men,9,Black,Canvas,85,425,191250
+Puma,Clyde All-Pro,Basketball,Nevada,Las Vegas,Men,9.5,Black,Leather,130,275,123750
+Vans,Sk8-Hi,Skate,Nevada,Las Vegas,Women,7,Black/White,Suede/Canvas,70,200,100000
+New Balance,574,Casual,Nevada,Las Vegas,Men,8,Grey,Suede/Mesh,80,400,180000
+Asics,Gel-Quantum 360,Running,Nevada,Las Vegas,Women,7.5,Grey,Mesh,170,550,247500
+Fila,Mindblower,Fashion,Nevada,Las Vegas,Men,11,White/Red,Leather,75,400,220000
+Skechers,Energy Wave Linxe,Walking,Nevada,Las Vegas,Women,8,Grey,Mesh,60,400,220000
+Nike,React Infinity Run Flyknit 2,Running,Nevada,Las Vegas,Men,9.5,Black/White,Flyknit,160,300,165000
+Adidas,Ultraboost DNA,Running,Nevada,Las Vegas,Women,6.5,White,Primeknit,180,175,105000
+Reebok,Nano X1,Training,Nevada,Las Vegas,Men,10,Blue,Mesh,130,375,206250
+Converse,Jack Purcell,Casual,Nevada,Las Vegas,Women,7,White,Canvas,65,550,330000
+Puma,Calibrate Runner,Running,Nevada,Las Vegas,Men,10.5,Grey,Mesh,120,350,227500
+Vans,Slip-On,Skate,Nevada,Las Vegas,Men,8.5,Black/White,Canvas,50,400,260000
+New Balance,FuelCell Rebel V2,Running,Nevada,Las Vegas,Women,7.5,Pink,Mesh,110,300,180000
+Asics,Gel-Kayano 27,Running,Nevada,Las Vegas,Men,11.5,Black,Mesh,160,200,130000
+Fila,Original Fitness,Casual,Nevada,Las Vegas,Women,8.5,White,Leather,60,350,280000
+Skechers,Go Run Mojo 2.0,Running,Nevada,Las Vegas,Men,9,Black,Mesh,55,550,330000
+Nike,Zoom Fly 3,Running,Nevada,Las Vegas,Women,9,Blue,Mesh,160,400,260000
+Nike,Blazer Mid '77,Basketball,Nevada,Las Vegas,Men,11,White/Black,Leather,100,400,260000
+Adidas,Yeezy Boost 350 V2,Lifestyle,Nevada,Las Vegas,Women,6.5,Cloud White,Primeknit,220,300,180000
+Reebok,Nano X1,CrossFit,Nevada,Las Vegas,Men,9.5,Black/White,Knit/Synthetic,130,200,130000
+Converse,Jack Purcell,Casual,Nevada,Las Vegas,Women,8,Pink,Canvas,65,450,360000
+Puma,Calibrate,Running,Nevada,Las Vegas,Men,10,Grey/White,Mesh/Synthetic,120,700,420000
+Vans,Sk8-Hi,Skate,Nevada,Las Vegas,Women,7,Black/White,Suede/Canvas,70,550,357500
+New Balance,574,Casual,Nevada,Las Vegas,Men,12,Navy/Red,Suede/Mesh,85,550,357500
+Asics,Gel-Quantum 90,Running,Nevada,Las Vegas,Women,7.5,Black/Gold,Mesh/Synthetic,90,425,255000
+Fila,Original Fitness,Casual,Nevada,Las Vegas,Men,11,White/Navy/Red,Leather,70,300,195000
+Skechers,Elite Flex,Walking,Nevada,Las Vegas,Women,9,Grey/Pink,Knit,70,600,480000
+Nike,Air Zoom Pegasus 38,Running,Nevada,Las Vegas,Men,10,Blue,Mesh/Synthetic,120,750,450000
+Adidas,NMD_R1,Lifestyle,Nevada,Las Vegas,Women,8.5,Black/Pink,Knit,140,600,390000
+Reebok,Floatride Energy 3,Running,Nevada,Las Vegas,Men,8.5,White/Black,Knit/Synthetic,100,550,357500
+Converse,All Star Chuck 70,Skate,Nevada,Las Vegas,Women,9,Black,Canvas,85,450,270000
+Puma,Clyde All-Pro,Basketball,Nevada,Las Vegas,Men,9,Black/Yellow,Leather/Synthetic,130,500,325000
+Vans,Era,Skate,Nevada,Las Vegas,Women,8,Multi-color,Canvas,55,500,400000
+New Balance,Fresh Foam 880v11,Running,Nevada,Las Vegas,Men,9.5,Grey,Mesh,130,700,455000
+Asics,Gel-Kayano 28,Running,Nevada,Las Vegas,Women,9,Black,Mesh,160,650,455000
+Fila,Trigate,Running,Nevada,Las Vegas,Men,10,Black/White,Mesh/Synthetic,65,525,341250
+Nike,React Infinity Run,Running,Nevada,Las Vegas,Men,9.5,Blue/Green,Mesh,160,475,308750
+Adidas,NMD_R1,Lifestyle,Nevada,Las Vegas,Women,8,White/Black,Primeknit,140,475,356250
+Reebok,Nano 9,CrossFit,Nevada,Las Vegas,Men,10,Black,Synthetic/Textile,130,400,320000
+Converse,Jack Purcell,Casual,Nevada,Las Vegas,Women,7.5,White,Canvas,65,600,360000
+Puma,Calibrate Runner,Running,Nevada,Las Vegas,Men,11,Black/White,Mesh,120,600,390000
+Vans,Era,Skate,Nevada,Las Vegas,Women,7.5,Pink,Canvas,50,450,270000
+New Balance,327,Casual,Nevada,Las Vegas,Men,8,Grey/Green,Suede/Mesh,100,400,240000
+Asics,Gel-Quantum 180 5,Running,Nevada,Las Vegas,Women,9,Pink/Black,Mesh/Synthetic,120,400,280000
+Fila,D-Formation,Fashion,Nevada,Las Vegas,Men,9.5,White/Red,Leather/Synthetic,70,450,337500
+Skechers,Max Cushioning Elite,Running,Nevada,Las Vegas,Women,6.5,Grey/Pink,Mesh,90,550,330000
+Nike,ZoomX Vaporfly Next%,Running,Nevada,Las Vegas,Men,10,Black/White,Mesh,250,550,357500
+Adidas,Yeezy Boost 350 V2,Fashion,Nevada,Las Vegas,Women,7.5,Cream White,Primeknit,220,375,225000
+Reebok,Aztrek 96,Casual,Nevada,Las Vegas,Men,11.5,Black/White,Suede/Textile,90,350,210000
+Converse,Chuck 70,Casual,Nevada,Las Vegas,Women,6.5,Sunflower,Canvas,85,325,227500
+Puma,Future Rider,Lifestyle,Nevada,Las Vegas,Men,10,Blue/Red,Synthetic/Mesh,80,375,281250
+Vans,Sk8-Hi,Skate,Nevada,Las Vegas,Women,8,Yellow,Canvas/Suede,65,575,345000
+New Balance,Fresh Foam More,Running,Nevada,Las Vegas,Men,9.5,Black/White,Mesh,165,575,373750
+Asics,Gel-Kayano 28,Running,Nevada,Las Vegas,Women,7,White/Pink,Mesh,160,425,255000
+Fila,Venom,Fashion,Nevada,Las Vegas,Men,8.5,White/Red/Navy,Leather/Synthetic,65,400,240000
+Nike,Air Force 1 '07,Basketball,Nevada,Las Vegas,Men,11,White,Leather,90,350,245000
+Adidas,NMD_R1,Lifestyle,Nevada,Las Vegas,Women,8,Pink,Primeknit,130,475,356250
+Reebok,Nano X1 Adventure,Training,Nevada,Las Vegas,Men,10.5,Grey,Flexweave,130,675,405000
+Converse,Jack Purcell Low Top,Casual,Nevada,Las Vegas,Women,7,White,Canvas,65,675,438750
+Puma,Clyde All-Pro,Basketball,Nevada,Las Vegas,Men,12,Black/White,Leather/Synthetic,130,475,285000
+Vans,SK8-Hi,Skate,Nevada,Las Vegas,Women,7.5,Pink,Suede/Canvas,65,475,285000
+New Balance,327,Lifestyle,Nevada,Las Vegas,Men,9.5,Green,Suede/Mesh,90,400,280000
+Asics,Gel-Lyte III,Lifestyle,Nevada,Las Vegas,Women,9,Black/Grey,Leather/Suede,110,500,375000
+Fila,Original Fitness,Fashion,Nevada,Las Vegas,Men,9.5,White,Leather,60,425,127500
+Skechers,Max Cushioning Elite,Running,Nevada,Las Vegas,Women,7,Black,Mesh,100,425,170000
+Nike,Air Zoom Pegasus 38,Running,Nevada,Las Vegas,Men,10,Blue,Mesh,120,425,170000
+Adidas,Harden Vol. 5,Basketball,Nevada,Las Vegas,Women,8.5,Grey,Textile,130,275,110000
+Reebok,DMX Trail Shadow,Running,Colorado,Denver,Men,9,Orange,Synthetic/Mesh,120,225,101250
+Converse,Chuck 70 High Top,Casual,Colorado,Denver,Men,11.5,Black,Canvas,85,475,190000
+Puma,RS-X Hard Drive,Lifestyle,Colorado,Denver,Women,6.5,Silver/White,Mesh/Synthetic,120,525,157500
+Vans,Era,Skate,Colorado,Denver,Men,8.5,Red,Canvas,50,425,170000
+New Balance,Fresh Foam More v3,Running,Colorado,Denver,Women,8,Black,Mesh/Synthetic,165,425,170000
+Asics,Gel-Quantum 360 6,Running,Colorado,Denver,Men,10.5,Black/Red,Mesh/Synthetic,170,275,110000
+Fila,Mindblower,Fashion,Colorado,Denver,Women,7,Pink,Synthetic,75,200,90000
+Skechers,D'Lites Fresh Start,Walking,Colorado,Denver,Men,12,White,Synthetic/Leather,65,400,160000
+Nike,Blazer Mid '77,Skate,Colorado,Denver,Men,9,Black/White,Leather,100,550,220000
+Adidas,Ultraboost DNA,Running,Colorado,Denver,Women,8.5,Grey,Primeknit,180,400,200000
+Reebok,Classic Nylon,Casual,Colorado,Denver,Men,12,Navy,Nylon,65,400,220000
+Converse,Chuck 70,Casual,Colorado,Denver,Women,6.5,Pink,Canvas,85,300,165000
+Puma,Calibrate Runner,Running,Colorado,Denver,Men,10,Black,Mesh,90,150,90000
+Vans,Sk8-Hi,Skate,Colorado,Denver,Women,7.5,Red,Canvas/Suede,70,350,192500
+New Balance,Fresh Foam More,Running,Colorado,Denver,Men,9.5,Black,Mesh,160,525,315000
+Asics,Gel-Quantum 180,Running,Colorado,Denver,Women,7.5,Blue,Mesh,120,325,211250
+Fila,D-Formation,Fashion,Colorado,Denver,Men,11,White,Leather,70,375,243750
+Skechers,Solar Fuse,Walking,Colorado,Denver,Women,8,Grey,Mesh,70,275,165000
+Nike,Air Max 2090,Running,Colorado,Denver,Men,10.5,Green,Mesh,150,175,113750
+Adidas,Adilette Shower,Slides,Colorado,Denver,Women,6,Pink,Synthetic,25,325,260000
+Reebok,Nano X1,Training,Colorado,Denver,Men,11,Red,Mesh,130,525,315000
+Converse,Jack Purcell,Casual,Colorado,Denver,Women,7.5,White,Canvas,75,375,243750
+Puma,Suede Classic+,Casual,Colorado,Denver,Men,8,Black,Suede,65,375,243750
+Vans,Slip-On,Skate,Colorado,Denver,Women,9,Checkerboard Black/White,Canvas,50,275,165000
+New Balance,FuelCell Rebel v2,Running,Colorado,Denver,Men,8.5,Green,Mesh,130,175,113750
+Asics,Gel-Sonoma 6,Trail,Colorado,Denver,Women,6.5,Grey,Mesh,75,475,380000
+Fila,Ray Tracer Evo,Fashion,Colorado,Denver,Men,12,Black,Synthetic,65,725,435000
+Skechers,Max Cushioning,Running,Colorado,Denver,Women,8,Navy,Mesh,85,575,373750
+Nike,React Infinity Run Flyknit,Running,Colorado,Denver,Men,11,Blue,Flyknit,160,575,373750
+Nike,Air Force 1 Low,Casual,Colorado,Denver,Men,12,White,Leather,90,450,292500
+Adidas,Yeezy Boost 350,Fashion,Colorado,Denver,Women,8,Cream White,Primeknit,220,325,227500
+Reebok,Nano 9,Training,Colorado,Denver,Men,11,Black/Gum,Flexweave/Cushioning,130,625,531250
+Converse,Jack Purcell,Casual,Colorado,Denver,Women,7.5,Egret/Black,Canvas,65,775,503750
+Puma,Calibrate Runner,Running,Colorado,Denver,Men,10.5,Grey,Mesh,100,625,437500
+Vans,Sk8-Hi,Skate,Colorado,Denver,Women,9.5,Black/White,Canvas/Suede,70,575,402500
+New Balance,997H,Casual,Colorado,Denver,Men,9.5,Black/Grey,Suede/Mesh,89.99,475,308750
+Asics,Gel-Cumulus 22,Running,Colorado,Denver,Women,8,Pink,Mesh,120,525,367500
+Fila,Mindblower,Fashion,Colorado,Denver,Men,8.5,White/Navy/Red,Synthetic/Leather,75,525,446250
+Skechers,Go Walk 5,Walking,Colorado,Denver,Women,7,Black,Mesh,60,725,507500
+Nike,Blazer Low,Casual,Colorado,Denver,Men,10,Black,Leather,85,675,506250
+Adidas,Ultraboost 6.0,Running,Colorado,Denver,Women,7,Grey,Primeknit,180,550,385000
+Reebok,Aztrek 96,Casual,Colorado,Denver,Men,12,White/Black,Synthetic,90,500,350000
+Converse,Pro Leather,Basketball,Colorado,Denver,Women,8.5,White,Leather,75,500,375000
+Puma,Suede Classic,Casual,Colorado,Denver,Men,9.5,Black/White,Suede,65,400,320000
+Vans,Era,Skate,Colorado,Denver,Women,8,True White,Canvas,50,600,390000
+New Balance,1500v6,Racing,Colorado,Denver,Men,8,Orange,Mesh,110,600,420000
+Asics,Gel-Kayano 27,Running,Colorado,Denver,Women,7,Grey,Mesh,160,450,292500
+Fila,Original Fitness,Casual,Colorado,Denver,Men,10.5,Black,Leather,60,400,260000
+Skechers,Go Run Mojo,Running,Colorado,Denver,Women,9.5,Grey/Pink,Mesh,60,400,300000
+Nike,Air Force 1,Casual,Colorado,Denver,Men,10.5,White,Leather,90,425,297500
+Adidas,NMD_R1,Lifestyle,Colorado,Denver,Women,8.5,Grey/Pink,Primeknit,140,525,288750
+Reebok,Nano X1 Adventure,Training,Colorado,Denver,Men,11,Black,Knit,130,525,315000
+Converse,Chuck 70,Casual,Colorado,Denver,Women,7,Pink,Canvas,85,350,192500
+Puma,Cali Sport,Fashion,Colorado,Denver,Women,6.5,White/Black,Leather,80,325,178750
+Vans,Sk8-Hi,Skate,Colorado,Denver,Men,9.5,Blue/White,Suede/Canvas,70,300,195000
+New Balance,Fresh Foam More v3,Running,Colorado,Denver,Women,7.5,Pink/White,Mesh,165,350,245000
+Asics,Gel-Cumulus 23,Running,Colorado,Denver,Men,9.5,Black,Mesh,120,575,316250
+Fila,Trail Blazer,Hiking,Colorado,Denver,Women,9.5,Green,Suede/Leather,70,575,345000
+Skechers,Go Run Mojo Pep,Running,Colorado,Denver,Men,8.5,Black,Mesh,70,425,233750
+Nike,Air Zoom Pegasus 38,Running,Colorado,Denver,Women,6.5,Blue/Pink,Mesh,120,400,260000
+Adidas,Superstar,Casual,Colorado,Denver,Men,11,White/Black,Leather,80,375,281250
+Reebok,Classic Nylon,Casual,Colorado,Denver,Women,8.5,Purple,Nylon,65,500,400000
+Converse,Jack Purcell,Casual,Colorado,Denver,Men,9,White,Canvas,70,700,455000
+Puma,Suede Classic+,Casual,Colorado,Denver,Women,7,Black,Suede,65,700,490000
+Vans,Era,Skate,Colorado,Denver,Men,10.5,Black/White,Canvas,55,500,325000
+New Balance,574,Casual,Colorado,Denver,Women,9,Grey/White,Suede/Mesh,80,500,325000
+Asics,Gel-Contend 7,Running,Colorado,Denver,Men,10,Blue,Mesh,70,425,318750
+Fila,Trigate,Running,Colorado,Denver,Women,7,Black/Pink,Synthetic/Mesh,70,525,420000
+Skechers,Flex Appeal 4.0,Training,Colorado,Denver,Men,8.5,Grey/Orange,Knit,70,450,180000
+Nike,Air Force 1 Low,Casual,Colorado,Denver,Men,9.5,White,Leather,90,450,225000
+Adidas,Yeezy Boost 350 V2,Lifestyle,Colorado,Denver,Men,11,Cream White,Primeknit,220,450,225000
+Reebok,Aztrek,Retro,Colorado,Denver,Women,7.5,Black/Gold/Red,Suede/Mesh,90,300,150000
+Converse,Jack Purcell,Casual,Washington,Seattle,Men,8,Navy,Canvas,65,250,137500
+Puma,Calibrate Runner,Running,Washington,Seattle,Women,8,Grey/White,Mesh,80,500,250000
+Vans,Era,Skate,Washington,Seattle,Men,10,Black/White,Canvas,55,550,220000
+New Balance,327,Retro,Washington,Seattle,Men,12,Grey/Orange,Suede/Mesh,100,450,225000
+Asics,Gel-Kayano 27,Running,Washington,Seattle,Women,9.5,Blue/Pink,Mesh,160,450,225000
+Fila,D-Formation,Fashion,Washington,Seattle,Men,9,Black,Leather/Synthetic,65,300,150000
+Skechers,Go Run Ride 8,Running,Washington,Seattle,Women,7.5,Black/Pink,Mesh,90,225,123750
+Nike,React Infinity Run,Running,Washington,Seattle,Men,11,Black,Mesh/Synthetic,160,425,212500
+Adidas,NMD_R1,Lifestyle,Washington,Seattle,Women,8,Black/Grey,Primeknit,130,575,287500
+Reebok,Club MEMT,Casual,Washington,Seattle,Men,9.5,White/Grey,Leather,65,425,255000
+Converse,Chuck 70,Skate,Washington,Seattle,Women,6.5,White,Canvas,85,425,276250
+Puma,Clyde,Retro,Washington,Seattle,Men,8,Red,Suede,80,325,211250
+Vans,Sk8-Hi,Skate,Washington,Seattle,Women,7.5,Pink/White,Canvas,65,175,122500
+New Balance,1080v10,Running,Washington,Seattle,Men,10.5,Grey,Mesh,150,375,243750
+Asics,Gel-Quantum 180,Running,Washington,Seattle,Women,7.5,Black/White,Mesh,140,550,385000
+Fila,Original Fitness,Casual,Washington,Seattle,Men,10,White/Navy/Red,Leather,60,350,262500
+Skechers,Summits,Walking,Washington,Seattle,Women,9,Black/Grey,Mesh,60,400,300000
+Nike,Air Force 1,Basketball,Washington,Seattle,Men,11,White,Leather,90,300,180000
+Adidas,Yeezy Boost 350 V2,Lifestyle,Washington,Seattle,Men,9,Natural,Primeknit,220,200,130000
+Reebok,Legacy Lifter,Weightlifting,Washington,Seattle,Men,10.5,Black,Synthetic,150,350,280000
+Converse,Jack Purcell,Casual,Washington,Seattle,Women,7.5,White,Canvas,75,550,330000
+Puma,Calibrate Runner,Running,Washington,Seattle,Men,10,Grey,Mesh,100,400,260000
+Vans,Slip-On,Skate,Washington,Seattle,Women,8.5,Checkered,Canvas,50,400,260000
+New Balance,327,Casual,Washington,Seattle,Men,9,Navy/Red,Suede/Nylon,100,300,180000
+Asics,Gel-Quantum 360 6,Running,Washington,Seattle,Women,8.5,Pink,Mesh,150,200,130000
+Fila,Mindblower,Fashion,Washington,Seattle,Men,11,White/Navy,Synthetic,75,500,400000
+Skechers,Go Run Mojo,Running,Washington,Seattle,Women,7.5,Black/Pink,Mesh,65,750,562500
+Nike,Zoom Fly 3,Running,Washington,Seattle,Men,10,Black,Mesh,160,625,500000
+Adidas,Ultra Boost DNA,Running,Washington,Seattle,Women,8.5,Grey,Primeknit,180,625,500000
+Reebok,Nano 9,Crossfit,Washington,Seattle,Men,9.5,Grey/Black,Mesh,130,500,400000
+Converse,Pro Leather,Skate,Washington,Seattle,Women,6,White,Leather,75,375,318750
+Puma,Clyde All-Pro,Basketball,Washington,Seattle,Men,11.5,White/Black,Leather,130,675,675000
+Vans,Sk8-Hi,Skate,Washington,Seattle,Men,8.5,Black/White,Suede/Canvas,70,825,660000
+New Balance,574,Casual,Washington,Seattle,Women,7.5,Burgundy,Suede/Leather,80,675,573750
+Asics,Gel-Cumulus 23,Running,Washington,Seattle,Men,11.5,Black/Red,Mesh,120,625,531250
+Fila,Original Fitness,Casual,Washington,Seattle,Women,8.5,White/Navy,Leather,65,525,420000
+Skechers,Go Walk 5,Walking,Washington,Seattle,Men,9,Charcoal,Mesh,65,575,488750
+Nike,Air Force 1,Casual,Washington,Seattle,Men,8.5,White,Leather,90,575,575000
+Adidas,Yeezy Boost 350,Lifestyle,Washington,Seattle,Men,10,Grey,Primeknit,220,775,658750
+Reebok,Nano 9,Crossfit,Washington,Seattle,Women,7,Black,Mesh,130,750,600000
+Converse,All Star,Casual,Washington,Seattle,Men,9,Red,Canvas,55,625,468750
+Puma,Clyde Court,Basketball,Washington,Seattle,Men,11,Black,Mesh,120,575,431250
+Vans,Sk8-Hi,Skate,Washington,Seattle,Women,7.5,Red,Suede,65,575,431250
+New Balance,327,Lifestyle,Washington,Seattle,Men,9,Green,Suede/Mesh,90,400,320000
+Asics,Gel-Kinsei OG,Running,Washington,Seattle,Women,8.5,White,Mesh,180,600,420000
+Fila,Mindblower,Fashion,Washington,Seattle,Men,10,Blue,Synthetic,75,600,450000
+Skechers,Go Walk 5,Walking,Washington,Seattle,Women,8,Grey,Mesh,60,450,315000
+Nike,Zoom Pegasus 38,Running,Washington,Seattle,Men,10,Black,Mesh,120,400,280000
+Adidas,NMD_R1,Lifestyle,Washington,Seattle,Women,7.5,Black/Pink,Primeknit,140,425,340000
+Reebok,Aztrek 96,Casual,Washington,Seattle,Men,11,Grey,Synthetic,90,450,292500
+Converse,Pro Leather,Basketball,Washington,Seattle,Women,8.5,White,Leather,85,550,330000
+Puma,RS-X,Lifestyle,Washington,Seattle,Men,9,Black,Leather,110,550,357500
+Vans,Era,Skate,Washington,Seattle,Women,6.5,Black,Canvas,50,375,225000
+New Balance,FuelCell Rebel v2,Running,Washington,Seattle,Women,9.5,Blue,Mesh,130,350,210000
+Asics,Gel-Quantum 360 6,Running,Washington,Seattle,Men,9,Black/Grey,Mesh,180,325,227500
+Fila,V94M Low,Fashion,Washington,Seattle,Women,7,White/Pink,Leather,75,375,281250
+Skechers,Stamina,Training,Washington,Seattle,Men,9,Black,Leather,65,600,360000
+Nike,SB Dunk Low,Skate,Washington,Seattle,Men,9.5,Orange,Leather,100,625,406250
+Nike,Air Force 1,Casual,Washington,Seattle,Men,11,White/Black,Leather,90,475,285000
+Adidas,Yeezy Boost 350 V2,Fashion,Washington,Seattle,Women,8.5,Cinder,Primeknit,220,450,315000
+Reebok,Zig Kinetica II,Running,Washington,Seattle,Men,9.5,Black/White,Mesh/Synthetic,120,425,382500
+Converse,Jack Purcell,Casual,Washington,Seattle,Women,7.5,Black/White,Canvas,65,550,522500
+Puma,Calibrate Runner,Running,Washington,Seattle,Men,10,Grey,Mesh,100,750,600000
+Vans,Sk8-Hi,Skate,Washington,Seattle,Women,6.5,Blue/White,Suede/Canvas,70,750,637500
+New Balance,574 Classic,Casual,Washington,Seattle,Men,9.5,Black/Yellow,Suede/Mesh,80,550,440000
+Asics,Gel-Kayano Lite,Running,Washington,Seattle,Women,8.5,Purple,Mesh/Synthetic,120,550,440000
+Fila,Trailblazer,Fashion,Washington,Seattle,Men,10.5,Black/Gold,Leather/Suede,75,475,427500
+Skechers,Uno Bold,Lifestyle,Washington,Seattle,Women,7.5,Pink/White,Synthetic,70,575,546250
+Nike,Air Max 2090,Running,Washington,Seattle,Men,11.5,Black/White,Mesh/Synthetic,150,1050,472500
+Adidas,Ultra Boost DNA,Running,Washington,Seattle,Women,8,Grey/White,Primeknit,180,850,382500
+Reebok,Classic Leather,Casual,Washington,Seattle,Men,12,Navy/White,Leather,75,850,297500
+Converse,Chuck 70,Casual,Washington,Seattle,Women,9,Red,Canvas,85,700,280000
+Puma,Suede Classic,Casual,Florida,Miami,Men,9.5,Red/White,Suede,65,750,412500
+Vans,Era,Skate,Florida,Miami,Women,7,Black/White,Canvas,55,850,382500
+New Balance,FuelCell Rebel v2,Running,Florida,Miami,Men,10.5,Blue/Yellow,Mesh,100,1100,495000
+Asics,Gel-Quantum 360 6,Running,Florida,Miami,Women,7.5,White/Grey,Mesh/Synthetic,180,750,337500
+Fila,Strada,Fashion,Florida,Miami,Men,11,White/Red/Blue,Synthetic,70,800,280000
+Nike,Air Force 1,Casual,Florida,Miami,Men,12,White,Leather,90,675,270000
+Adidas,NMD_R1,Lifestyle,Florida,Miami,Women,7,Pink,Primeknit,140,750,412500
+Reebok,Nano X1,Training,Florida,Miami,Men,11,Black,Flexweave,130,850,382500
+Converse,Jack Purcell,Casual,Florida,Miami,Men,9,White,Canvas,65,1070,481500
+Puma,Clyde All-Pro,Basketball,Florida,Miami,Men,10.5,Black,Leather,130,750,337500
+Vans,Sk8-Hi,Skate,Florida,Miami,Women,8,Black/White,Suede/Canvas,65,775,271250
+New Balance,327,Lifestyle,Florida,Miami,Men,9.5,Grey,Suede/Mesh,90,625,250000
+Asics,Gel-Quantum 360 6,Running,Florida,Miami,Women,8.5,Black/Pink,Mesh/Synthetic,160,675,371250
+Fila,Mindblower,Fashion,Florida,Miami,Men,10,White/Black,Leather/Synthetic,75,775,348750
+Skechers,Max Cushioning Elite,Running,Florida,Miami,Women,7,Grey/Pink,Mesh,90,1025,461250
+Nike,ZoomX Invincible,Running,Florida,Miami,Men,10.5,Blue,Mesh,180,725,326250
+Adidas,Harden Vol. 5,Basketball,Florida,Miami,Women,8.5,Purple,Synthetic,130,725,253750
+Reebok,Classic Nylon,Casual,Florida,Miami,Men,12,Navy,Nylon,60,650,260000
+Converse,Chuck 70,Casual,Florida,Miami,Women,7,Ivory,Canvas,85,675,371250
+Puma,Suede Classic+,Casual,Florida,Miami,Men,8.5,Black/White,Suede,65,800,360000
+Vans,Era,Skate,Florida,Miami,Men,9.5,Red,Canvas,50,1070,588500
+New Balance,FuelCell Prism,Running,Florida,Miami,Women,9.5,Black,Mesh,90,775,426250
+Asics,Gel-Excite 8,Running,Florida,Miami,Men,9,Grey/Black,Mesh,75,750,375000
+Fila,Spaghetti,Fashion,Florida,Miami,Women,7,White,Leather/Synthetic,70,700,350000
+Skechers,D'Lites Fresh Start,Walking,Florida,Miami,Men,10.5,Black,Leather,60,725,435000
+Nike,Air Force 1,Casual,Florida,Miami,Men,11,White,Leather,90,825,536250
+Adidas,NMD_R1,Lifestyle,Florida,Miami,Women,8,Black,Primeknit,140,1075,645000
+Reebok,Nano 9,Training,Florida,Miami,Men,10.5,Red,Mesh,130,825,453750
+Converse,Jack Purcell,Casual,Florida,Miami,Women,7.5,White,Canvas,65,800,400000
+Puma,Calibrate Runner,Running,Florida,Miami,Men,8.5,Black,Mesh,90,775,387500
+Vans,Sk8-Hi,Skate,Florida,Miami,Women,9,Purple,Suede/Canvas,65,775,503750
+New Balance,Fresh Foam More v3,Running,Florida,Miami,Women,9,Grey,Mesh,160,925,647500
+Asics,Gel-Kahana 8,Running,Florida,Miami,Men,9.5,Blue,Mesh,85,1150,747500
+Fila,Tracer,Fashion,Florida,Miami,Women,7.5,White,Synthetic,65,900,540000
+Skechers,Summits,Walking,Florida,Miami,Men,12,Black,Mesh,65,825,453750
+Nike,Epic React Flyknit,Running,Florida,Miami,Women,7.5,Grey,Flyknit,150,775,426250
+Adidas,Ultraboost 4.0,Running,Florida,Miami,Men,11,Black,Primeknit,180,800,520000
+Reebok,Legacy Lifter,Weightlifting,Florida,Miami,Men,9,White/Black,Synthetic,200,975,682500
+Converse,All Star Pro BB,Basketball,Florida,Miami,Women,7,Green,Leather,100,1125,731250
+Puma,Cell Venom,Lifestyle,Florida,Miami,Men,10,Grey,Leather,90,900,540000
+Vans,Slip-On,Casual,Florida,Miami,Women,6.5,Checkerboard,Canvas,50,825,453750
+New Balance,574,Casual,Florida,Miami,Men,12,Burgundy,Suede/Mesh,80,775,348750
+Asics,Gel-Quantum 360 6,Running,Florida,Miami,Women,8.5,Pink,Mesh,150,750,412500
+Nike,Air Max 95,Running,Florida,Miami,Men,9,Grey,Leather/Synthetic,170,925,555000
+Adidas,NMD_R1,Lifestyle,Florida,Miami,Women,7.5,Pink,Primeknit,140,1050,577500
+Reebok,Nano X1,Training,Florida,Miami,Men,11,Black,Mesh,130,850,425000
+Converse,Jack Purcell,Casual,Florida,Miami,Men,8,White,Canvas,65,750,337500
+Puma,Calibrate Rest,Running,Florida,Miami,Women,8.5,Black,Mesh,100,725,326250
+Vans,SK8-Hi,Skate,Florida,Miami,Men,9.5,Red,Suede/Canvas,70,725,398750
+New Balance,327,Lifestyle,Florida,Miami,Women,6.5,Grey,Suede/Mesh,100,825,495000
+Asics,Gel-Quantum 360 6,Running,Florida,Miami,Men,10.5,Black,Mesh,180,1000,600000
+Fila,Original Fitness,Casual,Florida,Miami,Women,9,White,Leather,70,825,412500
+Skechers,Max Cushioning,Running,Florida,Miami,Men,10,Blue,Mesh,90,725,362500
+Nike,React Infinity Run Flyknit,Running,Florida,Miami,Women,8,Blue,Flyknit,160,700,350000
+Adidas,Yeezy Boost 350 V2,Lifestyle,Florida,Miami,Men,9,Cream White,Primeknit,220,700,420000
+Reebok,Classic Nylon,Casual,Florida,Miami,Women,7.5,Pink,Nylon,65,825,536250
+Converse,Chuck 70,Casual,Florida,Miami,Men,9,Black,Canvas,85,975,585000
+Puma,Clyde All-Pro,Basketball,Florida,Miami,Women,7.5,White,Leather,130,800,400000
+Vans,Era,Skate,Florida,Miami,Men,10,Black/White,Canvas,55,745,372500
+New Balance,574,Lifestyle,Florida,Miami,Women,8,Grey,Suede/Textile,80,775,387500
+Asics,Gel-Excite 8,Running,Florida,Miami,Men,9.5,Blue,Mesh,70,750,487500
+Fila,F-13,Fashion,Florida,Miami,Men,11,Black,Leather,65,850,595000
+Skechers,Go Walk 5,Walking,Florida,Miami,Women,6.5,Black,Mesh,60,1075,698750
+Nike,Air Force 1,Casual,Florida,Miami,Men,8.5,White,Leather,90,875,481250
+Nike,Air Force 1,Casual,Florida,Miami,Men,9,White,Leather,90,825,453750
+Adidas,NMD_R1,Casual,Florida,Miami,Women,7,Black,Primeknit,130,775,426250
+Reebok,Zig Kinetica II,Running,Florida,Miami,Men,10,White,Mesh,120,775,503750
+Converse,Jack Purcell,Casual,Florida,Miami,Women,8.5,Navy,Canvas,75,875,612500
+Puma,Calibrate Runner,Running,Florida,Miami,Men,9.5,Black,Mesh,90,450,157500
+Vans,Sk8-Hi,Skate,Florida,Miami,Men,8.5,Black/White,Suede/Canvas,70,250,87500
+New Balance,FuelCell Rebel v2,Running,Florida,Miami,Women,8.5,Black/Pink,Mesh,130,250,62500
+Asics,Gel-Quantum 90,Running,Florida,Miami,Men,11,Grey,Mesh,80,100,30000
+Fila,Mindblower,Fashion,Minnesota,Minneapolis,Women,7,White,Synthetic,75,150,67500
+Skechers,GOwalk 5,Walking,Minnesota,Minneapolis,Men,9,Black,Mesh,65,250,87500
+Nike,Zoom Pegasus 38,Running,Minnesota,Minneapolis,Women,8.5,Blue,Mesh,120,500,175000
+Adidas,Yeezy Boost 350 V2,Casual,Minnesota,Minneapolis,Men,11,Cream White,Primeknit,220,150,52500
+Reebok,Classic Nylon,Casual,Minnesota,Minneapolis,Women,7.5,Pink,Nylon,65,200,50000
+Converse,Chuck 70,Casual,Minnesota,Minneapolis,Men,9,Red,Canvas,85,75,22500
+Puma,Suede Classic,Fashion,Minnesota,Minneapolis,Women,6,Black,Suede,65,150,67500
+Vans,Era,Skate,Minnesota,Minneapolis,Men,8,Grey,Canvas,50,225,78750
+New Balance,Fresh Foam Beacon v3,Running,Minnesota,Minneapolis,Women,9,Grey,Mesh,120,445,178000
+Asics,Gel-Kayano 27,Running,Minnesota,Minneapolis,Men,10,Black,Mesh,160,125,50000
+Fila,Disruptor III,Fashion,Minnesota,Minneapolis,Women,8.5,White,Synthetic,75,175,52500
+Skechers,Max Cushioning,Running,Minnesota,Minneapolis,Men,9.5,Blue,Mesh,90,25,8750
+Nike,Air Max 90,Casual,Minnesota,Minneapolis,Women,7.5,Green,Leather,120,75,37500
+Nike,Air Max 97,Running,Minnesota,Minneapolis,Men,11,Silver,Synthetic/Leather,170,175,70000
+Adidas,Superstar,Casual,Minnesota,Minneapolis,Women,8.5,White/Black,Leather,80,400,160000
+Reebok,Zig Kinetica II,Running,Minnesota,Minneapolis,Men,9,Grey,Mesh,120,100,40000
+Converse,Chuck 70,Casual,Minnesota,Minneapolis,Men,12,Beige,Canvas,85,100,30000
+Puma,Calibrate Runner,Running,Minnesota,Minneapolis,Women,7.5,Black/White,Mesh,90,25,8750
+Vans,Sk8-Hi,Skate,Minnesota,Minneapolis,Men,9,Black/White,Suede/Canvas,70,50,25000
+New Balance,574,Casual,Minnesota,Minneapolis,Women,7.5,Grey,Suede,80,175,70000
+Asics,Gel-Kayano 27,Running,Minnesota,Minneapolis,Men,12,Black,Mesh,160,445,222500
+Fila,Mindblower,Fashion,Minnesota,Minneapolis,Women,9.5,Grey/Pink,Synthetic,75,150,67500
+Skechers,Summits - New World,Walking,Minnesota,Minneapolis,Men,10,Black,Mesh,59,125,50000
+Nike,Air Force 1,Casual,Minnesota,Minneapolis,Women,8,White,Leather,90,50,20000
+Adidas,Adizero Adios 5,Running,Minnesota,Minneapolis,Men,10.5,Blue,Mesh,140,75,41250
+Reebok,Nano 9,Training,Minnesota,Minneapolis,Women,7,Black/White,Synthetic,130,175,105000
+Converse,Jack Purcell,Casual,Minnesota,Minneapolis,Men,8.5,Navy,Canvas,65,425,191250
+Puma,Clyde All-Pro,Basketball,Minnesota,Minneapolis,Women,7.5,White,Leather,130,175,70000
+Vans,Slip-On,Casual,Minnesota,Minneapolis,Men,10,Black/White,Canvas,50,175,61250
+New Balance,FuelCell Propel V3,Running,Minnesota,Minneapolis,Women,8.5,Pink/White,Mesh,100,150,52500
+Asics,Gel-Quantum 180,Running,Minnesota,Minneapolis,Men,11.5,Black,Mesh,120,150,75000
+Fila,Ray Tracer Evo,Fashion,Minnesota,Minneapolis,Women,8,White,Synthetic,65,325,178750
+Skechers,GOrun Razor Excess,Running,Minnesota,Minneapolis,Men,9,Black/Yellow,Mesh,125,550,275000
+Nike,Zoom Pegasus 38,Running,Minnesota,Minneapolis,Women,7.5,Pink,Mesh,120,300,135000
+Nike,Blazer Mid '77,Casual,Minnesota,Minneapolis,Men,10,White/Black,Leather,100,225,90000
+Adidas,NMD_R1,Running,Minnesota,Minneapolis,Women,7.5,Grey/Pink,Primeknit,140,175,70000
+Reebok,Nano 9,Crossfit,Minnesota,Minneapolis,Men,11.5,Black,Mesh,130,200,100000
+Converse,Jack Purcell,Casual,Minnesota,Minneapolis,Women,8.5,White,Canvas,65,375,206250
+Puma,Calibrate Runner,Running,Minnesota,Minneapolis,Men,9.5,Black/Yellow,Mesh,120,525,262500
+Vans,SK8-Hi,Skate,Minnesota,Minneapolis,Men,9,Black/White,Suede/Canvas,65,300,135000
+New Balance,327,Casual,Minnesota,Minneapolis,Women,7.5,Purple,Suede/Leather,100,225,90000
+Asics,Gel-Cumulus 23,Running,Minnesota,Minneapolis,Men,10,Blue/Black,Mesh,120,175,61250
+Fila,F-13,Casual,Minnesota,Minneapolis,Women,9,White,Leather,80,150,67500
+Skechers,Go Walk 6,Walking,Minnesota,Minneapolis,Men,10.5,Black/Grey,Mesh,60,325,162500
+Nike,Air Force 1,Casual,Minnesota,Minneapolis,Women,8,White,Leather,90,450,202500
+Adidas,Superstar,Casual,Minnesota,Minneapolis,Men,10,Black/White,Leather,85,250,100000
+Reebok,Classic Nylon,Casual,Minnesota,Minneapolis,Women,7,Pink,Nylon,60,150,37500
+Converse,Chuck 70,Casual,Minnesota,Minneapolis,Men,11,Grey,Canvas,85,125,31250
+Puma,Clyde All-Pro,Basketball,Minnesota,Minneapolis,Women,7.5,White,Leather,130,125,43750
+Vans,Slip-On,Casual,Minnesota,Minneapolis,Men,8.5,Black/White,Canvas,50,200,80000
+New Balance,574,Casual,Minnesota,Minneapolis,Women,8.5,Navy,Suede/Leather,80,375,168750
+Asics,GT-2000 9,Running,Minnesota,Minneapolis,Men,9.5,Black,Mesh,120,200,70000
+Fila,Grant Hill 2,Basketball,Minnesota,Minneapolis,Women,8,White/Navy,Leather,95,100,35000
+Skechers,Elite Flex,Walking,Minnesota,Minneapolis,Men,9.5,Grey,Knit,70,75,26250
+Nike,Air Force 1,Casual,Minnesota,Minneapolis,Men,9,White,Leather,90,75,33750
+Adidas,NMD_R1,Lifestyle,Minnesota,Minneapolis,Women,7,Grey,Primeknit,140,200,100000
+Reebok,Nano X1,Training,Minnesota,Minneapolis,Men,11.5,Black,Mesh,130,350,175000
+Converse,Chuck 70,Casual,Minnesota,Minneapolis,Women,8.5,Cream,Canvas,85,200,80000
+Puma,Suede Classic,Casual,Minnesota,Minneapolis,Men,10.5,Black/White,Suede,65,145,58000
+Vans,Sk8-Hi,Skate,Minnesota,Minneapolis,Men,8,Black/White,Canvas,70,150,60000
+New Balance,327,Lifestyle,Minnesota,Minneapolis,Women,8,White/Grey,Suede/Mesh,90,125,68750
+Asics,Gel-Quantum 90,Running,Minnesota,Minneapolis,Men,10,Grey,Mesh,80,225,135000
+Fila,Mindblower,Fashion,Minnesota,Minneapolis,Women,7,Pink,Leather/Synthetic,75,475,261250
+Skechers,Max Cushioning,Walking,Minnesota,Minneapolis,Men,9.5,Black,Mesh,80,275,123750
+Nike,React Infinity Run Flyknit 2,Running,Minnesota,Minneapolis,Women,6.5,Pink,Flyknit,160,225,101250
+Adidas,Ultraboost DNA,Running,Minnesota,Minneapolis,Men,9.5,White,Primeknit,180,175,78750
+Reebok,Zig Kinetica II,Running,Minnesota,Minneapolis,Women,8,Blue,Mesh,120,175,96250
+Converse,Jack Purcell,Casual,Minnesota,Minneapolis,Men,9,White,Canvas,65,275,165000
+Puma,Calibrate Runner,Running,Minnesota,Minneapolis,Women,7,Grey,Mesh,90,475,166250
+Vans,Era,Skate,Minnesota,Minneapolis,Men,10,Black,Canvas,50,475,213750
+New Balance,Fresh Foam Hierro v6,Trail Running,Minnesota,Minneapolis,Men,11.5,Green,Synthetic/Mesh,135,475,213750
+Asics,Gel-Kayano 27,Running,Minnesota,Minneapolis,Women,8.5,Blue,Mesh,160,325,146250
+Fila,Ray Tracer Evo,Fashion,Montana,Billings,Men,11,Black/White,Synthetic,75,275,137500
+Skechers,Go Run Mojo,Running,Montana,Billings,Women,7.5,Black,Mesh,60,475,213750
+Nike,Air Force 1,Casual,Montana,Billings,Men,11,White,Leather,90,525,183750
+Adidas,NMD_R1,Running,Montana,Billings,Women,7,Pink,Primeknit,130,425,191250
+Reebok,Nano 9,Training,Montana,Billings,Men,10.5,Black,Mesh,130,450,202500
+Converse,Jack Purcell,Casual,Montana,Billings,Women,8.5,White,Canvas,65,300,135000
+Puma,Clyde All-Pro,Basketball,Montana,Billings,Men,9,Black,Leather,130,225,112500
+Vans,Sk8-Hi,Skate,Montana,Billings,Women,7.5,Black/White,Suede/Canvas,70,425,191250
+New Balance,327,Casual,Montana,Billings,Men,9,Navy,Suede/Mesh,100,575,201250
+Asics,Gel-Kinsei OG,Running,Montana,Billings,Women,7,White,Mesh,180,425,191250
+Fila,Venom,Fashion,Montana,Billings,Men,11,Grey,Synthetic,75,425,191250
+Skechers,GOrun 7+,Running,Montana,Billings,Women,8,Black/Pink,Mesh,95,325,146250
+Nike,Blazer Mid '77,Casual,Montana,Billings,Men,12,White,Leather,100,200,100000
+Adidas,Ultraboost DNA,Running,Montana,Billings,Women,6,Blue,Primeknit,180,400,180000
+Reebok,Classic Nylon,Casual,Montana,Billings,Men,9.5,Black,Nylon,65,575,258750
+Converse,Chuck 70,Casual,Montana,Billings,Women,9,Cream,Canvas,85,375,168750
+Puma,Calibrate Runner,Running,Montana,Billings,Men,10,Black/Yellow,Mesh,120,400,180000
+Vans,Era,Skate,Montana,Billings,Women,6.5,Red,Canvas,50,300,120000
+New Balance,FuelCell Rebel V2,Running,Montana,Billings,Men,11,Black/Yellow,Mesh,110,200,90000
+Asics,Gel-Venture 8,Trail Running,Montana,Billings,Women,8,Grey,Mesh,70,375,225000
+Fila,Original Fitness,Casual,Montana,Billings,Men,10,White,Leather,70,575,230000
+Skechers,Max Cushioning Premier,Walking,Montana,Billings,Women,7,Grey,Mesh,80,425,191250
+Nike,React Infinity Run Flyknit,Running,Montana,Billings,Men,10.5,Blue,Flyknit,160,425,191250
+Nike,React Infinity Run Flyknit,Running,Montana,Billings,Women,7,Black,Flyknit,160,325,130000
+Adidas,Superstar,Casual,Montana,Billings,Men,10.5,White/Gold,Leather/Synthetic,85,225,101250
+Reebok,Nano X1,Training,Montana,Billings,Women,8.5,Pink,Flexweave/Synthetic,130,400,240000
+Converse,Chuck 70,Casual,Montana,Billings,Men,11.5,Yellow,Canvas,85,675,270000
+Puma,Calibrate Runner,Running,Montana,Billings,Women,9,Grey,Mesh,80,525,236250
+Vans,Sk8-Hi,Skate,Montana,Billings,Men,9,Black/White,Canvas/Suede,65,550,247500
+New Balance,327,Lifestyle,Montana,Billings,Women,7,Blue,Suede/Mesh,90,425,170000
+Asics,Gel-Quantum 90,Running,Montana,Billings,Men,9,Black/White,Mesh/Synthetic,80,300,135000
+Fila,Mindblower,Fashion,Montana,Billings,Women,8,Pink,Leather/Synthetic,70,600,360000
+Skechers,Go Run Mojo,Running,Montana,Billings,Men,8,Black,Mesh,60,750,300000
+Nike,Air Force 1,Casual,Montana,Billings,Women,8.5,White,Leather,90,600,270000
+Adidas,NMD_R1,Casual,Montana,Billings,Men,9.5,Black/White,Mesh,130,550,247500
+Reebok,Floatride Energy 3,Running,Montana,Billings,Women,6.5,Black,Mesh,100,450,180000
+Converse,All Star Pro BB,Basketball,Montana,Billings,Men,12,Red,Leather/Synthetic,120,475,213750
+Puma,RS-2K,Lifestyle,Montana,Billings,Women,7.5,White,Leather/Synthetic,110,475,285000
+Vans,Era,Skate,Montana,Billings,Men,8,Navy,Canvas,50,675,303750
+New Balance,FuelCell Rebel v2,Running,Montana,Billings,Women,8.5,Pink,Mesh/Synthetic,130,625,343750
+Asics,Gel-Kayano 27,Running,Montana,Billings,Men,10,Black,Mesh/Synthetic,160,500,250000
+Fila,Trigate,Fashion,Montana,Billings,Women,9,Black,Leather/Synthetic,65,425,191250
+Skechers,Go Walk 6,Walking,Montana,Billings,Men,9.5,Black,Mesh,60,425,233750
+Nike,Air Force 1 '07,Casual,Montana,Billings,Men,11,White,Leather,90,400,240000
+Adidas,NMD_R1,Lifestyle,Montana,Billings,Women,8,Pink/White,Primeknit,130,600,270000
+Reebok,Nano X,Crossfit,Montana,Billings,Men,10.5,Black,Synthetic,130,600,300000
+Converse,Chuck 70 High Top,Casual,Montana,Billings,Men,9.5,Black/White,Canvas,85,450,202500
+Puma,Calibrate Runner,Running,Montana,Billings,Women,9,Blue/White,Mesh,90,400,180000
+Vans,Sk8-Hi,Skate,Montana,Billings,Men,10,Black/White,Suede/Canvas,70,400,220000
+New Balance,327,Lifestyle,Montana,Billings,Women,7.5,Green,Suede/Nylon,90,450,270000
+Asics,Gel-Kayano 27,Running,Montana,Billings,Men,9.5,Grey,Mesh,160,550,247500
+Fila,Mindblower,Fashion,Montana,Billings,Women,7.5,White/Blue,Leather/Synthetic,75,550,275000
+Skechers,Elite Flex Wasick,Training,Montana,Billings,Men,8,Navy,Mesh,65,400,180000
+Nike,Air Zoom Pegasus 38,Running,Montana,Billings,Women,6.5,Grey/Pink,Mesh,120,375,168750
+Adidas,Ultraboost DNA,Running,Montana,Billings,Men,11.5,Black/White,Primeknit,180,350,192500
+Reebok,Club C Revenge,Casual,Montana,Billings,Women,8.5,Pink/White,Leather,80,400,240000
+Converse,Jack Purcell,Casual,Montana,Billings,Men,9,Navy,Canvas,65,575,230000
+Puma,Clyde All-Pro,Basketball,Montana,Billings,Women,7,Black/White,Leather,130,575,258750
+Vans,Era,Skate,Montana,Billings,Men,9.5,Red,Canvas,50,425,170000
+New Balance,FuelCell Propel V3,Running,Montana,Billings,Women,8.5,Black,Mesh,90,425,170000
+Asics,Gel-Nimbus Lite 2,Running,Montana,Billings,Men,10,Black,Mesh,150,375,206250
+Fila,V94M,Fashion,Montana,Billings,Women,8.5,White/Blue,Leather/Synthetic,75,475,285000
+Nike,Air Force 1 '07,Casual,Montana,Billings,Men,11,White,Leather,90,675,303750
+Adidas,NMD_R1,Lifestyle,Montana,Billings,Women,8,Pink/White,Primeknit,130,675,337500
+Reebok,Nano X,Crossfit,Montana,Billings,Men,10.5,Black,Synthetic,130,475,213750
+Converse,Chuck 70 High Top,Casual,Montana,Billings,Men,9.5,Black/White,Canvas,85,475,213750
+Puma,Calibrate Runner,Running,Montana,Billings,Women,9,Blue/White,Mesh,90,400,220000
+Vans,Sk8-Hi,Skate,Montana,Billings,Men,10,Black/White,Suede/Canvas,70,500,300000
+New Balance,327,Lifestyle,Montana,Billings,Women,7.5,Green,Suede/Nylon,90,700,140000
+Asics,Gel-Kayano 27,Running,Montana,Billings,Men,9.5,Grey,Mesh,160,700,210000
+Fila,Mindblower,Fashion,Montana,Billings,Women,7.5,White/Blue,Leather/Synthetic,75,500,150000
+Skechers,Elite Flex Wasick,Training,Montana,Billings,Men,8,Navy,Mesh,65,500,175000
+Nike,Air Zoom Pegasus 38,Running,Tennessee,Knoxville,Women,6.5,Grey/Pink,Mesh,120,350,140000
+Adidas,Ultraboost DNA,Running,Tennessee,Knoxville,Men,11.5,Black/White,Primeknit,180,500,175000
+Reebok,Club C Revenge,Casual,Tennessee,Knoxville,Women,8.5,Pink/White,Leather,80,650,162500
+Converse,Jack Purcell,Casual,Tennessee,Knoxville,Men,9,Navy,Canvas,65,625,218750
+Puma,Clyde All-Pro,Basketball,Tennessee,Knoxville,Women,7,Black/White,Leather,130,450,157500
+Vans,Era,Skate,Tennessee,Knoxville,Men,9.5,Red,Canvas,50,400,140000
+New Balance,FuelCell Propel V3,Running,Tennessee,Knoxville,Women,8.5,Black,Mesh,90,275,110000
+Asics,Gel-Nimbus Lite 2,Running,Tennessee,Knoxville,Men,10,Black,Mesh,150,475,166250
+Fila,V94M,Fashion,Tennessee,Knoxville,Women,8.5,White/Blue,Leather/Synthetic,75,650,195000
+Nike,Air Force 1,Casual,Tennessee,Knoxville,Men,11,White,Leather,90,650,260000
+Adidas,NMD_R1,Lifestyle,Tennessee,Knoxville,Women,7.5,Pink,Primeknit,130,475,142500
+Reebok,Nano X1,Crossfit,Tennessee,Knoxville,Men,9.5,Grey,Knit,130,375,131250
+Converse,Chuck 70,Casual,Tennessee,Knoxville,Women,9.5,Black,Canvas,85,275,110000
+Puma,Calibrate,Running,Tennessee,Knoxville,Men,10,Grey,Mesh,120,425,148750
+Vans,SK8-Hi,Skate,Tennessee,Knoxville,Men,8,Red/White,Suede/Canvas,70,675,135000
+New Balance,327,Lifestyle,Tennessee,Knoxville,Women,6.5,Purple,Suede/Mesh,100,675,168750
+Asics,Gel-Quantum 180,Running,Tennessee,Knoxville,Men,11.5,Black,Mesh,120,500,100000
+Fila,Trailblazer,Fashion,Tennessee,Knoxville,Women,8,Brown,Leather,75,400,100000
+Skechers,Max Cushioning,Running,Tennessee,Knoxville,Women,7.5,Navy,Mesh,90,300,90000
+Nike,Air Zoom Pegasus 38,Running,Tennessee,Knoxville,Men,9.5,Blue,Mesh,120,575,143750
+Adidas,Superstar,Casual,Tennessee,Knoxville,Women,8.5,White/Black,Leather,85,725,108750
+Reebok,Classic Nylon,Casual,Tennessee,Knoxville,Men,10,Grey,Nylon,65,750,187500
+Converse,Jack Purcell,Casual,Tennessee,Knoxville,Men,9.5,White,Canvas,65,600,120000
+Puma,RS-2K,Lifestyle,Tennessee,Knoxville,Women,7.5,Black,Mesh/Suede,110,525,157500
+Vans,Slip-On,Skate,Tennessee,Knoxville,Men,9,Black/White,Canvas,50,425,191250
+New Balance,FuelCell Rebel v2,Running,Tennessee,Knoxville,Women,9,Green/Black,Mesh,130,775,310000
+Asics,Gel-Kayano Lite,Running,Tennessee,Knoxville,Men,9,Grey,Mesh,160,775,310000
+Fila,Mindblower,Fashion,Tennessee,Knoxville,Women,7.5,White,Leather,75,775,348750
+Skechers,D'Lites,Walking,Tennessee,Knoxville,Men,11,White,Leather,65,650,260000
+Nike,Air Max 97,Running,Tennessee,Knoxville,Women,8,Silver,Leather/Synthetic,170,600,240000
+Nike,Air Force 1,Lifestyle,Tennessee,Knoxville,Men,11,White,Leather,90,500,225000
+Adidas,Yeezy Boost 350,Lifestyle,Tennessee,Knoxville,Women,8.5,Clay Brown,Primeknit,220,875,437500
+Reebok,Nano X,Training,Tennessee,Knoxville,Men,9.5,Black/Red,Synthetic/Mesh,130,825,330000
+Converse,Chuck 70,Casual,Tennessee,Knoxville,Women,7,Natural Ivory,Canvas,85,825,371250
+Puma,Cali Sport,Lifestyle,Tennessee,Knoxville,Men,10,Black/White,Leather/Synthetic,80,975,390000
+Vans,Sk8-Hi,Skate,Tennessee,Knoxville,Women,9,Red/White,Suede/Canvas,70,575,230000
+New Balance,FuelCell Rebel v2,Running,Tennessee,Knoxville,Men,8.5,Blue/Orange,Mesh,130,550,247500
+Asics,Gel-Cumulus 23,Running,Tennessee,Knoxville,Women,7.5,White/Black,Mesh,120,825,453750
+Fila,D-Formation,Fashion,Tennessee,Knoxville,Men,11,White/Navy,Leather/Synthetic,65,775,348750
+Skechers,Max Cushioning Premier,Running,Tennessee,Knoxville,Women,6.5,Black/White,Mesh,90,775,426250
+Nike,Air Zoom Pegasus 38,Running,Tennessee,Knoxville,Men,12,Black,Mesh,120,950,475000
+Adidas,Superstar,Casual,Tennessee,Knoxville,Women,7.5,Cloud White,Leather,80,475,213750
+Reebok,Classic Nylon,Casual,Tennessee,Knoxville,Men,10.5,Collegiate Navy,Nylon/Suede,65,475,237500
+Converse,Jack Purcell,Casual,Tennessee,Knoxville,Women,8,Black/White,Canvas,65,725,398750
+Puma,Suede Classic,Lifestyle,Tennessee,Knoxville,Men,8.5,Black/White,Suede,65,675,337500
+Vans,Era,Skate,Tennessee,Knoxville,Women,6,Black/White,Canvas,50,625,312500
+New Balance,Fresh Foam Hierro v6,Trail,Tennessee,Knoxville,Men,10,Black/Red,Mesh/Synthetic,135,675,371250
+Asics,Gel-Excite 8,Running,Tennessee,Knoxville,Women,9,Black,Mesh,75,400,220000
+Fila,Mindblower,Fashion,Tennessee,Knoxville,Men,12,White/Navy/Red,Synthetic/Leather,65,400,200000
+Nike,Air Force 1,Casual,Tennessee,Knoxville,Men,9,White,Leather,90,625,281250
+Adidas,NMD_R1,Lifestyle,Tennessee,Knoxville,Women,8,Black,Primeknit,140,575,201250
+Reebok,Nano X,Crossfit,Tennessee,Knoxville,Men,10.5,Black,Mesh,130,575,201250
+Converse,Jack Purcell,Casual,Tennessee,Knoxville,Men,8.5,White,Canvas,70,525,210000
+Puma,Calibrate Runner,Running,Tennessee,Knoxville,Women,7,Grey,Mesh,80,375,150000
+Vans,Sk8-Hi,Skate,Tennessee,Knoxville,Men,10.5,Black/White,Canvas/Suede,70,350,122500
+New Balance,FuelCell Rebel v2,Running,Tennessee,Knoxville,Women,9,White/Green,Mesh,130,525,236250
+Asics,Gel-Quantum 360 6,Running,Tennessee,Knoxville,Men,9.5,Blue,Mesh,150,675,202500
+Fila,Mindblower,Fashion,Tennessee,Knoxville,Women,8.5,Pink,Leather,80,675,202500
+Skechers,Go Walk 5,Walking,Tennessee,Knoxville,Men,11,Black,Mesh,65,600,330000
+Nike,React Infinity Run Flyknit 2,Running,Tennessee,Knoxville,Women,8.5,Pink,Flyknit,160,475,261250
+Adidas,Ultraboost DNA,Running,Tennessee,Knoxville,Men,8.5,White,Primeknit,180,450,247500
+Reebok,Aztrek 96,Casual,Tennessee,Knoxville,Women,7.5,Yellow,Leather/Synthetic,90,650,422500
+Converse,Chuck 70,Casual,Tennessee,Knoxville,Men,7,Red,Canvas,85,800,440000
+Puma,Mirage Sport,Lifestyle,Tennessee,Knoxville,Women,6,Pink,Leather,90,800,440000
+Vans,Era,Skate,Tennessee,Knoxville,Men,9.5,Black/White,Canvas,50,700,420000
+New Balance,Fresh Foam 880v11,Running,Tennessee,Knoxville,Women,10,Grey,Mesh,130,550,330000
+Asics,Gel-Kayano Lite,Running,Tennessee,Knoxville,Men,9.5,Black,Mesh,160,500,275000
+Fila,Venom 94,Fashion,Tennessee,Knoxville,Women,7.5,White,Leather,70,750,487500
+Skechers,Summits,Training,Tennessee,Knoxville,Men,8,Grey,Mesh,55,425,148750
+Nike,Air Max 97,Running,Tennessee,Knoxville,Women,7.5,Silver,Leather,170,225,78750
